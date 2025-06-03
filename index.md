@@ -1,9 +1,7 @@
 ---
 layout: default
-title: "Curso de Machine Learning e Inteligencia Artificial"
+title: "Curso de Machine Learning"
 ---
-
-# Curso de Machine Learning e Inteligencia Artificial
 
 Autor: Mireia Consarnau
 
