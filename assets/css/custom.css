@@ -45,11 +45,6 @@ li {
   line-height: 1.2;
 }
 
-/* Añade margen superior solo al primer elemento de las sublistas */
-ul ul > li:first-child {
-  margin-top: 0.1em;
-}
-
 
 /* Responsividad básica */
 @media (max-width: 600px) {
