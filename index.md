@@ -3,8 +3,6 @@ layout: default
 title: "Curso de Machine Learning"
 ---
 
-Autor: Mireia Consarnau
-
 ## Contenido del curso
 
 ### [Unidad 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático](unidad1.md)  
