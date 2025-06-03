@@ -5,14 +5,14 @@ hr {
   margin: 20px 0;
 }
 
-/* Títulos con espacios elegantes */
+/* Títulos */
 h1, h2, h3 {
   margin-top: 20px;
   margin-bottom: 10px;
   color: #2c3e50;
 }
 
-/* Estilo de los enlaces */
+/* Enlaces */
 a {
   color: #1a73e8;
   text-decoration: none;
@@ -45,7 +45,7 @@ body {
 ul, ol {
   margin: 0;
   padding-left: 1.2em;
-  list-style-position: outside;
+  list-style-position: inside; /* punto dentro, alinea con el texto */
 }
 
 li {
@@ -56,10 +56,11 @@ li {
 
 li > ul,
 li > ol {
-  margin: 0.1em 0 0 0; /* clave: deja espacio superior */
+  margin-top: 0.1em; /* separación arriba para sublistas */
   padding-left: 1.2em;
 }
 
+/* Elimina márgenes verticales de sublistas anidadas */
 ul ul,
 ul ol,
 ol ul,
@@ -67,7 +68,6 @@ ol ol {
   margin: 0;
   padding: 0;
 }
-
 
 /* Ajuste específico para listas de recursos */
 ul.recursos {
