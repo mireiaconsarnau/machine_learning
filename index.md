@@ -1,4 +1,4 @@
-# Curso de Machine Learning e Inteligencia Artificial
+# Curso de Machine Learning
 
 Autor: Mireia Consarnau  
 
