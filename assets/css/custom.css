@@ -41,12 +41,30 @@ body {
   padding: 0 15px;
 }
 
+/* Ajuste general de listas y elementos */
+ul, ol {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin: 0;
+  padding: 0;
+  line-height: 1.4; /* controla altura de línea */
+}
+
+li > ul,
+li > ol {
+  margin: 0;
+  padding-left: 20px; /* sangrado para sublistas */
+}
+
 /* Responsivitat bàsica */
 @media (max-width: 600px) {
   body {
     padding: 0 10px;
   }
- ul.recursos {
+  ul.recursos {
     list-style-position: inside; /* el punto queda dentro y sigue la línea */
   }
 
