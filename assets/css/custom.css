@@ -44,7 +44,7 @@ body {
 /* Ajuste general de listas y elementos */
 ul, ol {
   margin: 0;
-  padding: 0;
+  padding-left: 1.2em; /* sangría general para todos los puntos */
 }
 
 li {
@@ -56,19 +56,18 @@ li {
 li > ul,
 li > ol {
   margin: 0;
-  padding-left: 20px;
+  padding-left: 1.2em; /* sangrado también para sublistas */
 }
 
 /* Ajuste específico para listas de recursos */
 ul.recursos {
-  list-style-position: inside; /* punto dentro y alineado */
+  list-style-position: inside; /* el punto dentro y alineado */
   margin: 0;
-  padding: 0;
+  padding-left: 1.2em; /* sangría para recursos también */
 }
 
 ul.recursos li {
   display: block;
-  padding-left: 0; /* sin sangría extra */
   margin: 0 0 0.2em 0;
 }
 
@@ -82,4 +81,3 @@ ul.recursos a {
     padding: 0 10px;
   }
 }
-
