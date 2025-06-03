@@ -13,8 +13,8 @@ title: "Unidad 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Aut
 - [Material teórico (PDF)](#)
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)
 
-## Lección 3. Google Collaboratory (COLAB): entorno práctico para el desarrollo de proyectos de IA y aprendizaje automático
+## Lección 3. Google Collaboratory: entorno práctico para el desarrollo de proyectos de IA y aprendizaje automático
 
-- [Introducción a Google Collaboratory (COLAB)](#)
+- [Notebook (COLAB)](#)
 - [Archivo de datos (CSV)](#)
 - [Vídeo explicativo (YOUTUBE)](#)
