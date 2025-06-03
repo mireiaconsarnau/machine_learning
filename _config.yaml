@@ -1,3 +1,5 @@
+theme: minima
+
 sass:
   style: compressed
 
