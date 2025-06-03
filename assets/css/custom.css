@@ -38,37 +38,8 @@ footer, .license {
 /* Contingut */
 body {
   font-family: Arial, sans-serif;
-  line-height: 1.4;
+  line-height: 1.6;
   padding: 0 15px;
-}
-
-/* Llistes recursos */
-ul.recursos {
-  list-style: inside;
-  margin: 0;
-  padding: 0;
-}
-
-ul.recursos li {
-  margin: 0;
-  padding: 0;
-  line-height: 1.2;
-}
-
-ul.recursos a {
-  font-size: 1em;
-  display: inline;
-}
-
-/* Llistes generals */
-ul, ol {
-  margin: 0;
-  padding: 0;
-}
-
-li {
-  margin: 0;
-  padding: 0;
 }
 
 /* Responsivitat bàsica */
