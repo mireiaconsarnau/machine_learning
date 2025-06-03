@@ -1,22 +1,22 @@
-/* Suavitza les línies horitzontals */
+/* Suaviza las líneas horizontales */
 hr {
   border: none;
   border-top: 1px solid #ccc;
   margin: 20px 0;
 }
 
-/* Títols amb espais elegants */
+/* Títulos con espacios elegantes */
 h1, h2, h3 {
-  margin-top: 20px; /* abans 30px */
-  margin-bottom: 10px; /* abans 15px */
+  margin-top: 20px;
+  margin-bottom: 10px;
   color: #2c3e50;
 }
 
-/* Estil dels enllaços */
+/* Estilo de los enlaces */
 a {
   color: #1a73e8;
   text-decoration: none;
-  margin-bottom: 5px; /* abans 10px */
+  margin-bottom: 5px;
   display: inline-block;
   font-size: 1.1em;
 }
@@ -24,7 +24,7 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Peu de pàgina */
+/* Pie de página */
 footer, .license {
   font-size: 0.85em;
   color: #666;
@@ -34,10 +34,10 @@ footer, .license {
   text-align: left;
 }
 
-/* Contingut */
+/* Contenido */
 body {
   font-family: Arial, sans-serif;
-  line-height: 1.4; /* abans 1.6 */
+  line-height: 1.4;
   padding: 0 15px;
 }
 
@@ -50,32 +50,36 @@ ul, ol {
 li {
   margin: 0;
   padding: 0;
-  line-height: 1.4; /* controla altura de línea */
+  line-height: 1.4;
 }
 
 li > ul,
 li > ol {
   margin: 0;
-  padding-left: 20px; /* sangrado para sublistas */
+  padding-left: 20px;
 }
 
-/* Responsivitat bàsica */
+/* Ajuste específico para listas de recursos */
+ul.recursos {
+  list-style-position: inside; /* punto dentro y alineado */
+  margin: 0;
+  padding: 0;
+}
+
+ul.recursos li {
+  display: block;
+  padding-left: 0; /* sin sangría extra */
+  margin: 0 0 0.2em 0;
+}
+
+ul.recursos a {
+  display: inline;
+}
+
+/* Responsividad básica */
 @media (max-width: 600px) {
   body {
     padding: 0 10px;
   }
-  ul.recursos {
-    list-style-position: inside; /* el punto queda dentro y sigue la línea */
-  }
-
-  ul.recursos li {
-    display: block; /* evita usar flex aquí */
-    text-indent: -1em; /* alinea el texto con el punto */
-    padding-left: 1em; /* añade espacio para el punto */
-    margin: 0 0 0.2em 0;
-  }
-
-  ul.recursos a {
-    display: inline; /* asegura que no rompa línea verticalmente */
-  }
 }
+
