@@ -1,4 +1,8 @@
-# Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automático
+---
+layout: default
+title: "Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automático"
+---
+
 
 ## Temas
 
