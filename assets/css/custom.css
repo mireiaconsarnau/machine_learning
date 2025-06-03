@@ -18,6 +18,7 @@ a {
   text-decoration: none;
   margin-bottom: 10px;
   display: inline-block;
+  font-size: 0.95em;
 }
 a:hover {
   text-decoration: underline;
@@ -31,6 +32,7 @@ footer, .license {
   border-top: 1px solid #eee;
   padding-top: 10px;
   text-align: left;
+  margin-top: 20px;
 }
 
 /* Contingut */
