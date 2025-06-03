@@ -38,12 +38,13 @@ footer, .license {
 /* Contingut */
 body {
   font-family: Arial, sans-serif;
-  line-height: 1.6;
+  line-height: 1.4;
   padding: 0 15px;
 }
 
+/* Llistes recursos */
 ul.recursos {
-  list-style-position: inside;
+  list-style: inside;
   margin: 0;
   padding: 0;
 }
@@ -51,7 +52,7 @@ ul.recursos {
 ul.recursos li {
   margin: 0;
   padding: 0;
-  line-height: 1.2; /* més compacte */
+  line-height: 1.2;
 }
 
 ul.recursos a {
@@ -59,6 +60,7 @@ ul.recursos a {
   display: inline;
 }
 
+/* Llistes generals */
 ul, ol {
   margin: 0;
   padding: 0;
@@ -68,7 +70,6 @@ li {
   margin: 0;
   padding: 0;
 }
-
 
 /* Responsivitat bàsica */
 @media (max-width: 600px) {
