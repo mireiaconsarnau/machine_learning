@@ -41,40 +41,15 @@ body {
   padding: 0 15px;
 }
 
-/* Ajuste general de listas */
-ul, ol {
-  margin: 0;
-  padding-left: 1.2em;
-  list-style-position: inside; /* punto dentro, alinea con el texto */
-}
-
-li {
-  margin: 0 0 0.1em 0;
-  padding: 0;
-  line-height: 1.2;
-}
-
-li > ul,
-li > ol {
-  margin-top: 0.1em; /* separación arriba para sublistas */
-  padding-left: 1.2em;
-}
-
-/* Elimina márgenes verticales de sublistas anidadas */
-ul ul,
-ul ol,
-ol ul,
-ol ol {
-  margin: 0;
-  padding: 0;
+/* Restaurar listas a los márgenes y sangrías por defecto */
+ul, ol, li {
+  margin: initial;
+  padding: initial;
+  line-height: normal;
+  list-style-position: initial;
 }
 
 /* Ajuste específico para listas de recursos */
-ul.recursos {
-  margin: 0;
-  padding-left: 1.2em;
-}
-
 ul.recursos li {
   display: block;
 }
