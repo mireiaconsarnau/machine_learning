@@ -1,0 +1,32 @@
+/* Suavitza les línies horitzontals */
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 20px 0;
+}
+
+/* Espais entre seccions */
+h1, h2, h3 {
+  margin-top: 30px;
+  margin-bottom: 15px;
+  color: #2c3e50;
+}
+
+/* Estil dels enllaços */
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Peu de pàgina menys destacat */
+footer, .license {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 40px;
+  border-top: 1px solid #eee;
+  padding-top: 10px;
+}
