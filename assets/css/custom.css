@@ -46,4 +46,12 @@ body {
   body {
     padding: 0 10px;
   }
+  ul.recursos li {
+    display: flex; /* asegura que el punto y el texto se alineen */
+    align-items: flex-start; /* alinea el texto con el punto */
+  }
+
+  ul.recursos a {
+    display: inline; /* mantiene el enlace como inline */
+  }
 }
