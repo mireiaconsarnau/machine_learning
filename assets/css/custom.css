@@ -5,7 +5,7 @@ hr {
   margin: 20px 0;
 }
 
-/* Espais entre seccions */
+/* Títols amb espais elegants */
 h1, h2, h3 {
   margin-top: 30px;
   margin-bottom: 15px;
@@ -33,30 +33,6 @@ footer, .license {
   text-align: left;
 }
 
-/* Menú de navegació millor presentat */
-nav {
-  background-color: #f8f9fa;
-  border-bottom: 1px solid #ddd;
-  padding: 10px 20px;
-  display: flex;
-  gap: 15px;
-  flex-wrap: wrap;
-  font-size: 0.95em;
-}
-
-nav a {
-  color: #007bff;
-  text-decoration: none;
-  padding: 5px 10px;
-  border-radius: 4px;
-  transition: background-color 0.2s, color 0.2s;
-}
-
-nav a:hover {
-  background-color: #007bff;
-  color: #fff;
-}
-
 /* Contingut */
 body {
   font-family: Arial, sans-serif;
@@ -64,15 +40,8 @@ body {
   padding: 0 15px;
 }
 
-/* Responsivitat per mòbils */
+/* Responsivitat bàsica */
 @media (max-width: 600px) {
-  nav {
-    padding: 10px;
-  }
-  nav a {
-    display: block;
-    margin: 5px 0;
-  }
   body {
     padding: 0 10px;
   }
