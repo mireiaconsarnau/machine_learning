@@ -1,4 +1,7 @@
-# Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis de patrones
+---
+layout: default
+title: "Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis de patrones"
+--- 
 
 ## Temas
 
