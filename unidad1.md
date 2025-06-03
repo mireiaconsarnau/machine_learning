@@ -6,6 +6,7 @@
 - Lección 2. Aprendizaje Automático: técnicas, usos y clasificación en la IA  
 - Lección 3. Google Colab: entorno práctico para el desarrollo de proyectos de IA y aprendizaje automático  
 
+---
 
 ## Licencia
 
