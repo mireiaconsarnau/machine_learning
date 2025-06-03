@@ -18,7 +18,7 @@ a {
   text-decoration: none;
   margin-bottom: 5px;
   display: inline-block;
-  font-size: 1.05em; /* un poco más pequeño */
+  font-size: 1.05em;
 }
 a:hover {
   text-decoration: underline;
@@ -37,7 +37,7 @@ footer, .license {
 /* Contenido */
 body {
   font-family: Arial, sans-serif;
-  line-height: 1.3; /* más compacto */
+  line-height: 1.3;
   padding: 0 15px;
 }
 
@@ -48,18 +48,21 @@ ul, ol {
 }
 
 li {
-  margin: 0 0 0.1em 0; /* margen vertical más reducido */
+  margin: 0 0 0.1em 0;
   padding: 0;
-  line-height: 1.2; /* altura uniforme y más ajustada */
+  line-height: 1.2;
 }
 
-/* Sublistas también compactas y con sangrado uniforme */
-li > ul,
-li > ol {
+/* Elimina márgenes de sublistas */
+ul ul,
+ul ol,
+ol ul,
+ol ol {
   margin: 0;
-  padding-left: 1.2em;
+  padding: 0;
 }
 
+/* Ajuste específico para listas de recursos */
 ul.recursos {
   list-style-position: inside;
   margin: 0;
