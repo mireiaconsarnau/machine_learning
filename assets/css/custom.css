@@ -33,19 +33,28 @@ footer, .license {
   text-align: left;
 }
 
-/* Menú de navegació */
+/* Menú de navegació millor presentat */
 nav {
-  background-color: #f8f8f8;
-  padding: 10px 20px;
-  margin-bottom: 30px;
+  background-color: #f8f9fa;
   border-bottom: 1px solid #ddd;
+  padding: 10px 20px;
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  font-size: 0.95em;
 }
+
 nav a {
-  margin-right: 15px;
-  font-weight: bold;
+  color: #007bff;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  transition: background-color 0.2s, color 0.2s;
 }
+
 nav a:hover {
-  color: #0056b3;
+  background-color: #007bff;
+  color: #fff;
 }
 
 /* Contingut */
