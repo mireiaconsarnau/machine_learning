@@ -42,6 +42,24 @@ body {
   padding: 0 15px;
 }
 
+ul.recursos {
+  list-style-position: inside;
+  margin: 0;
+  padding: 0;
+}
+
+ul.recursos li {
+  line-height: 1.2em;
+  margin-bottom: 0.2em;
+}
+
+ul.recursos a {
+  font-size: 1em;
+}
+
+
+
+
 /* Responsivitat bàsica */
 @media (max-width: 600px) {
   body {
