@@ -49,13 +49,17 @@ ul.recursos {
 }
 
 ul.recursos li {
-  line-height: 1.2em;
-  margin-bottom: 0.2em;
+  margin: 0;
+  padding: 0;
+  line-height: 1.3;
+  display: list-item;
 }
 
 ul.recursos a {
   font-size: 1em;
+  line-height: 1.3;
 }
+
 
 
 
