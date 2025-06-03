@@ -11,7 +11,7 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
 
 ## Lección 2. Modelos supervisados para clasificación: algoritmos, métricas y usos
 
-- [Material teórico (PDF)](#)  
+- [Material teórico (PDF)](#)
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
 
 - Ejemplo Naive Bayes  
