@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje automático"
