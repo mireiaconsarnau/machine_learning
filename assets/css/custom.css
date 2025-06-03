@@ -46,12 +46,18 @@ body {
   body {
     padding: 0 10px;
   }
+ ul.recursos {
+    list-style-position: inside; /* el punto queda dentro y sigue la línea */
+  }
+
   ul.recursos li {
-    display: flex; /* asegura que el punto y el texto se alineen */
-    align-items: flex-start; /* alinea el texto con el punto */
+    display: block; /* evita usar flex aquí */
+    text-indent: -1em; /* alinea el texto con el punto */
+    padding-left: 1em; /* añade espacio para el punto */
+    margin: 0 0 0.2em 0;
   }
 
   ul.recursos a {
-    display: inline; /* mantiene el enlace como inline */
+    display: inline; /* asegura que no rompa línea verticalmente */
   }
 }
