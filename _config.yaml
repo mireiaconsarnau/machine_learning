@@ -1,0 +1,8 @@
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+
+include:
+  - assets/css/custom.css
