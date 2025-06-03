@@ -44,14 +44,20 @@ body {
 /* Ajuste general de listas */
 ul, ol {
   margin: 0;
-  padding-left: 1.2em; /* sangría general */
-  list-style-position: outside; /* punto fuera para mantener sangrado correcto */
+  padding-left: 1.2em;
+  list-style-position: outside;
 }
 
 li {
-  margin: 0 0 0.1em 0; /* espacio vertical uniforme */
+  margin: 0 0 0.1em 0;
   padding: 0;
-  line-height: 1.2; /* altura uniforme y más compacta */
+  line-height: 1.2;
+}
+
+li > ul,
+li > ol {
+  margin: 0.1em 0 0 0; /* clave: deja espacio superior */
+  padding-left: 1.2em;
 }
 
 ul ul,
@@ -59,8 +65,9 @@ ul ol,
 ol ul,
 ol ol {
   margin: 0;
-  padding-left: 1.2em; /* sangría de sublistas */
+  padding: 0;
 }
+
 
 /* Ajuste específico para listas de recursos */
 ul.recursos {
