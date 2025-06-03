@@ -1,5 +1,6 @@
 # Curso de Machine Learning e Inteligencia Artificial
-Autor: Mireia Consarnau  
+
+Autor: Mireia Consarnau
 
 ## Contenido del curso
 
@@ -8,8 +9,6 @@ Autor: Mireia Consarnau
 ### [Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo](unidad3.md)  
 ### [Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis de patrones](unidad4.md)  
 ### [Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automático](unidad5.md)  
-
----
 
 ## Licencia
 
