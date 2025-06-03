@@ -50,7 +50,7 @@ ul, ol {
 li {
   margin: 0;
   padding: 0;
-  line-height: 1.4;
+  line-height: 1.2; /* más compacto para listas */
 }
 
 li > ul,
@@ -61,7 +61,7 @@ li > ol {
 
 /* Ajuste específico para listas de recursos */
 ul.recursos {
-  list-style-position: inside; /* el punto dentro y alineado */
+  list-style-position: inside; /* punto dentro y alineado */
   margin: 0;
   padding-left: 1.2em; /* sangría para recursos también */
 }
