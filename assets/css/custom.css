@@ -41,22 +41,7 @@ body {
   padding: 0 15px;
 }
 
-/* Restaurar listas a los márgenes y sangrías por defecto */
-ul, ol, li {
-  margin: initial;
-  padding: initial;
-  line-height: normal;
-  list-style-position: initial;
-}
 
-/* Ajuste específico para listas de recursos */
-ul.recursos li {
-  display: block;
-}
-
-ul.recursos a {
-  display: inline;
-}
 
 /* Responsividad básica */
 @media (max-width: 600px) {
