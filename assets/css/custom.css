@@ -41,6 +41,9 @@ body {
   padding: 0 15px;
 }
 
+li {
+  line-height: 1.2;
+}
 
 
 /* Responsividad básica */
