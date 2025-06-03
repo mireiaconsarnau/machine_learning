@@ -16,17 +16,55 @@ h1, h2, h3 {
 a {
   color: #1a73e8;
   text-decoration: none;
+  margin-bottom: 10px;
+  display: inline-block;
 }
-
 a:hover {
   text-decoration: underline;
 }
 
-/* Peu de pàgina menys destacat */
+/* Peu de pàgina */
 footer, .license {
   font-size: 0.85em;
   color: #666;
   margin-top: 40px;
   border-top: 1px solid #eee;
   padding-top: 10px;
+  text-align: left;
+}
+
+/* Menú de navegació */
+nav {
+  background-color: #f8f8f8;
+  padding: 10px 20px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #ddd;
+}
+nav a {
+  margin-right: 15px;
+  font-weight: bold;
+}
+nav a:hover {
+  color: #0056b3;
+}
+
+/* Contingut */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  padding: 0 15px;
+}
+
+/* Responsivitat per mòbils */
+@media (max-width: 600px) {
+  nav {
+    padding: 10px;
+  }
+  nav a {
+    display: block;
+    margin: 5px 0;
+  }
+  body {
+    padding: 0 10px;
+  }
 }
