@@ -1,4 +1,7 @@
-# Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo
+---
+layout: default
+title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
+---
 
 ## Temas
 
