@@ -5,7 +5,7 @@ title: "Unidad 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Aut
 
 ## Lección 1. ¿Qué es la IA? De la mente humana a las máquinas inteligentes
 
-- [Material teórico (PDF)](#)
+- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad1/l1.pdf){:target="_blank"}
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)
 
 ## Lección 2. Aprendizaje Automático: técnicas, usos y clasificación en la IA
