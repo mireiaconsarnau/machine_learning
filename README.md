@@ -16,7 +16,8 @@ https://mireiaconsarnau.github.io/machine_learning/
 
 ## Licencia
 
-El contenido está bajo licencia [Creative Commons BY-NC-ND 4.0](LICENSE.md).
+El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
+
 
 ---
 
