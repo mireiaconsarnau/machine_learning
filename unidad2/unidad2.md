@@ -5,7 +5,7 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 
 ## Lección 1. Importancia del preprocesamiento: calidad y consistencia de los datos
 
-- [Material teórico (PDF)](#)  
+- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/l1.pdf)  
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
 
 - Ejemplo Numpy  
@@ -31,7 +31,7 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 
 ## Lección 2. Limpieza de datos: detección y tratamiento de valores nulos, duplicados y errores
 
-- [Material teórico (PDF)](#)  
+- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/l2.pdf)    
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
 
 - Ejemplo limpieza de datos  
@@ -42,7 +42,7 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 
 ## Lección 3. Visualización exploratoria: distribuciones, correlaciones y detección de problemas
 
-- [Material teórico (PDF)](#)  
+- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/l3.pdf)   
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
 
 - Ejemplo visualización exploratoria  
@@ -53,7 +53,7 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 
 ## Lección 4. Transformación de datos: normalización, codificación y escalado
 
-- [Material teórico (PDF)](#)  
+- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/l4.pdf)   
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
 
 - Ejemplo transformación de los datos  
@@ -64,7 +64,7 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 
 ## Lección 5. Selección y reducción de características: filtrado, PCA y técnicas avanzadas
 
-- [Material teórico (PDF)](#)  
+- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/l5.pdf)   
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
 
 - Ejemplo PCA  
