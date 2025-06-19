@@ -26,3 +26,15 @@ RA3 - Unidad 2 y Unidad 3
 RA4	- Unidad 4
 RA5 - Unidad 5
 RA6 - Unidad 3, Unidad 4 y Unidad 5
+
+## Relación entre Unidades y Resultados de Aprendizaje (RAs)
+
+| Resultado de Aprendizaje (RA) | Descripción                                                                                      | Unidades Relacionadas          |
+|-------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------|
+| RA1                           | Caracteriza la Inteligencia Artificial fuerte y débil determinando usos y posibilidades         | Unidad 1                       |
+| RA2                           | Determina técnicas y herramientas de sistemas de aprendizaje automático, testeando su aplicabilidad | Unidad 1                       |
+| RA3                           | Aplica algoritmos de aprendizaje supervisado, optimizando el resultado del modelo y minimizando riesgos | Unidad 2, Unidad 3             |
+| RA4                           | Aplica técnicas de aprendizaje no supervisado relacionándolas con los tipos de problemas         | Unidad 4                       |
+| RA5                           | Aplica modelos computacionales de redes neuronales comparándolos con otros métodos de IA        | Unidad 5                       |
+| RA6                           | Valora la calidad de los resultados obtenidos en la práctica con sistemas de aprendizaje automático | Unidad 3, Unidad 4, Unidad 5   |
+
