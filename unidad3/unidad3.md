@@ -5,13 +5,13 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
 
 ## Lección 1. ¿Qué es el aprendizaje supervisado? Fases y flujo de trabajo
 
-- [Material teórico (PDF)](#)  
+- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/l1.pdf)    
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
 
 
 ## Lección 2. Modelos supervisados para clasificación: algoritmos, métricas y usos
 
-- [Material teórico (PDF)](#)
+- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/l2.pdf)    
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
 
 - Ejemplo Naive Bayes  
@@ -47,7 +47,7 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
 
 ## Lección 3. Modelos supervisados para regresión: algoritmos, métricas y usos
 
-- [Material teórico (PDF)](#)  
+- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/l3.pdf)      
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
 
 - Ejemplo Regresión lineal  
