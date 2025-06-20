@@ -10,5 +10,5 @@ title: "Curso de Machine Learning"
 ### [Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo](unidad3/unidad3.md)  
 ### [Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis de patrones](unidad4/unidad4.md)  
 ### [Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automático](unidad5/unidad5.md)  
-<br>
-### [Relación entre Unidades y Resultados de Aprendizaje (RAs)](ras.md)  
+
+## [Relación entre Unidades y Resultados de Aprendizaje (RAs)](ras.md)  
