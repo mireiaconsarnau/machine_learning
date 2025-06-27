@@ -5,7 +5,7 @@ title: "Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automátic
 
 ## Lección 1. Redes neuronales artificiales
 
-- [Material teórico (PDF)](#)  
+- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/l1.pdf)     
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
 
 - Ejemplo MLP para clasificación  
@@ -21,7 +21,7 @@ title: "Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automátic
 
 ## Lección 2. Otras arquitecturas de redes neuronales
 
-- [Material teórico (PDF)](#)  
+- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/l2.pdf)     
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
 
 - Ejemplo RNN (LSTM) para predicción en series temporales  
@@ -37,7 +37,7 @@ title: "Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automátic
 
 ## Lección 3. Evolución del aprendizaje profundo y otras técnicas modernas de ML
 
-- [Material teórico (PDF)](#)  
+- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/l3.pdf)    
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
 
 - Ejemplo CNN para clasificación de imágenes con Transfer Learning  
