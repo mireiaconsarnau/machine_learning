@@ -17,4 +17,5 @@ title: "Unidad 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Aut
 
 - [Notebook (COLAB)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad1/cuadernos/U1L31.ipynb)
 - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad1/csv/datos.csv)
-- [Vídeo explicativo (YOUTUBE)](#)
+- [Vídeo explicativo (YOUTUBE)](https://youtu.be/dl-HzKSbYK4)
+- 
