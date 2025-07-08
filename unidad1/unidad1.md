@@ -11,7 +11,7 @@ title: "Unidad 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Aut
 ## Lección 2. Aprendizaje Automático: técnicas, usos y clasificación en la IA
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad1/l2.pdf)
-- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)
+- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/KQimFdEpiu0)
 
 ## Lección 3. Google Collaboratory: entorno práctico para el desarrollo de proyectos de IA y aprendizaje automático
 
