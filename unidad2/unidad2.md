@@ -9,23 +9,23 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/gG059WZI8Ow)  
 
 - Ejemplo Numpy  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+  - [Notebook (COLAB)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/cuadernos/U2L11.ipynb)
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/csv/datos.csv)  
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 - Ejemplo Pandas  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+  - [Notebook (COLAB)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/cuadernos/U2L12.ipynb) 
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/csv/datos.csv)    
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 - Ejemplo Matplotlib  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+  - [Notebook (COLAB)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/cuadernos/U2L13.ipynb) 
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/csv/datos.csv)    
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 - Ejemplo Scikit-learn  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+  - [Notebook (COLAB)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/cuadernos/U2L14.ipynb) 
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/csv/datos.csv)    
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 
