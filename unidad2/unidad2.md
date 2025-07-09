@@ -46,7 +46,7 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 
 - Ejemplo visualización exploratoria  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad2/cuadernos/U2L22.ipynb)  
-  - [Vídeo explicativo (YOUTUBE)](#)  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/S86_xfArsz4)  
 
 
 ## Lección 4. Transformación de datos: normalización, codificación y escalado
