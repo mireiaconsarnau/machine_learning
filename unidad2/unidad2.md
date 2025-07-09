@@ -66,7 +66,7 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 
 - Ejemplo PCA  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad2/cuadernos/U2L24.ipynb)     
-  - [Vídeo explicativo (YOUTUBE)](#)  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/T0a1lNkzBiI)  
 
 
 ## Ejemplo completo (síntesis de todas las lecciones)
