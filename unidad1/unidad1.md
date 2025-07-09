@@ -15,7 +15,8 @@ title: "Unidad 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Aut
 
 ## Lección 3. Google Collaboratory: entorno práctico para el desarrollo de proyectos de IA y aprendizaje automático
 
-▶️ [Abrir en Colab](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad1/cuadernos/U1L31.ipynb)
+[▶️ [Abrir en Colab](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad1/cuadernos/U1L31.ipynb)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad1/cuadernos/U1L31.ipynb
+)
 
 
 - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad1/csv/datos.csv)
