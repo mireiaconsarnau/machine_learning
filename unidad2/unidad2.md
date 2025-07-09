@@ -72,5 +72,5 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 ## Ejemplo completo (síntesis de todas las lecciones)
 
 - [Notebook (COLAB)](#)  
-- [Archivo de datos (CSV)](#)  
+- [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/csv/datasetU2L2.csv)     
 - [Vídeo explicativo (YOUTUBE)](#)  
