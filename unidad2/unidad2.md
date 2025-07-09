@@ -56,7 +56,7 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 
 - Ejemplo transformación de los datos  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad2/cuadernos/U2L22.ipynb)   
-  - [Vídeo explicativo (YOUTUBE)](#)  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/y8ARD16JLLc)  
 
 
 ## Lección 5. Selección y reducción de características: filtrado, PCA y técnicas avanzadas
