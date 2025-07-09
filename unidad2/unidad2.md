@@ -32,18 +32,18 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 ## Lección 2. Limpieza de datos: detección y tratamiento de valores nulos, duplicados y errores
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/l2.pdf)    
-- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
+- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/cywZLikJCcY)  
 
 - Ejemplo limpieza de datos  
   - [Notebook (COLAB)](#)  
   - [Archivo de datos (CSV)](#)  
-  - [Vídeo explicativo (YOUTUBE)](#)  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/LcjtjePa7Vc)  
 
 
 ## Lección 3. Visualización exploratoria: distribuciones, correlaciones y detección de problemas
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/l3.pdf)   
-- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
+- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/DY68-iWHpus)  
 
 - Ejemplo visualización exploratoria  
   - [Notebook (COLAB)](#)  
