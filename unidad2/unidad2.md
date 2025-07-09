@@ -35,8 +35,7 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/cywZLikJCcY)  
 
 - Ejemplo limpieza de datos  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad2/cuadernos/U2L21.ipynb)
   - [Vídeo explicativo (YOUTUBE)](https://youtu.be/LcjtjePa7Vc)  
 
 
@@ -46,8 +45,7 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/DY68-iWHpus)  
 
 - Ejemplo visualización exploratoria  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad2/cuadernos/U2L22.ipynb)  
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 
@@ -58,7 +56,6 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 
 - Ejemplo transformación de los datos  
   - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 
@@ -69,7 +66,6 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 
 - Ejemplo PCA  
   - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 
