@@ -52,11 +52,11 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 ## Lección 4. Transformación de datos: normalización, codificación y escalado
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/l4.pdf)   
-- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
+- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/y8ARD16JLLc)  
 
 - Ejemplo transformación de los datos  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad2/cuadernos/U2L22.ipynb)   
-  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/y8ARD16JLLc)  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/69-S_Nwwues))  
 
 
 ## Lección 5. Selección y reducción de características: filtrado, PCA y técnicas avanzadas
