@@ -71,6 +71,6 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 
 ## Ejemplo completo (síntesis de todas las lecciones)
 
-- [Notebook (COLAB)]](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad2/cuadernos/U2L25.ipynb)  
+- [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad2/cuadernos/U2L25.ipynb)  
 - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/csv/datasetU2L2.csv)     
-- [Vídeo explicativo (YOUTUBE)](#)  
+- [Vídeo explicativo (YOUTUBE)](https://youtu.be/tjLTylLNwxM)  
