@@ -6,7 +6,7 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 ## Lección 1. Importancia del preprocesamiento: calidad y consistencia de los datos
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/l1.pdf)  
-- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
+- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/gG059WZI8Ow)  
 
 - Ejemplo Numpy  
   - [Notebook (COLAB)](#)  
