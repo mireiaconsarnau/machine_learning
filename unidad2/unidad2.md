@@ -62,7 +62,7 @@ title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje 
 ## Lección 5. Selección y reducción de características: filtrado, PCA y técnicas avanzadas
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/l5.pdf)   
-- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
+- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/O_cY8SkGdUI)  
 
 - Ejemplo PCA  
   - [Notebook (COLAB)](#)  
