@@ -42,6 +42,6 @@ title: "Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis
 
 ## Ejemplo completo (síntesis de todas las lecciones)
 
-- [Notebook (COLAB)](#)  
-- [Archivo de datos (CSV)](#)  
+- [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U4L33.ipynb)    
+- [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad4/csv/streaming_usage_dataset.csv)    
 - [Vídeo explicativo (YOUTUBE)](#)  
