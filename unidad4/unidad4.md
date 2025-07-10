@@ -20,8 +20,8 @@ title: "Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis
   - [Vídeo explicativo (YOUTUBE)](https://youtu.be/eyZ3Htah7HA)  
 
 - Ejemplo AGNES  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U4L22.ipynb)  
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad4/csv/customers.csv)   
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 
@@ -31,8 +31,7 @@ title: "Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
 
 - Comparativa K-means, AGNES y DBSCAN  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U4L23.ipynb)   
   - [Vídeo explicativo (YOUTUBE)](#)
   
 - Ejemplo DBSCAN  
