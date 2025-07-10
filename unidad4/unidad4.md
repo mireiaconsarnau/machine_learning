@@ -35,8 +35,8 @@ title: "Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis
   - [Vídeo explicativo (YOUTUBE)](#)
   
 - Ejemplo DBSCAN  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U4L32.ipynb)   
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad4/csv/house_data.csv)     
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 
