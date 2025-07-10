@@ -16,7 +16,7 @@ title: "Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis
 
 - Ejemplo K-means  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U4L21.ipynb)  
-  - [Archivo de datos (CSV)](#)  
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad4/csv/customers.csv)   
   - [Vídeo explicativo (YOUTUBE)](https://youtu.be/eyZ3Htah7HA)  
 
 - Ejemplo AGNES  
