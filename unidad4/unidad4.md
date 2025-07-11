@@ -12,7 +12,7 @@ title: "Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis
 ## Lección 2. Agrupación con k-medias y métodos jerárquicos: funcionamiento y aplicación
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad4/l2.pdf)   
-- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
+- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/5BDQW-Vc5-4)  
 
 - Ejemplo K-means  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U4L21.ipynb)  
