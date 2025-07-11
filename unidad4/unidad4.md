@@ -22,7 +22,7 @@ title: "Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis
 - Ejemplo AGNES  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U4L22.ipynb)  
   - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad4/csv/customers.csv)   
-  - [Vídeo explicativo (YOUTUBE)](#)  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/ampVBnzFQLQ)  
 
 
 ## Lección 3. Agrupación basada en densidad: detección de formas y estructuras complejas
@@ -32,16 +32,16 @@ title: "Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis
 
 - Comparativa K-means, AGNES y DBSCAN  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U4L31.ipynb)   
-  - [Vídeo explicativo (YOUTUBE)](#)
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/KAMi1hDdE0E)
   
 - Ejemplo DBSCAN  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U4L32.ipynb)   
   - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad4/csv/house_data.csv)     
-  - [Vídeo explicativo (YOUTUBE)](#)  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/pUrAkneaeW8)  
 
 
 ## Ejemplo completo (síntesis de todas las lecciones)
 
 - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U4L33.ipynb)    
 - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad4/csv/streaming_usage_dataset.csv)    
-- [Vídeo explicativo (YOUTUBE)](#)  
+- [Vídeo explicativo (YOUTUBE)](https://youtu.be/w_rB4BpJ5k4)  
