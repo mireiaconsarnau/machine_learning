@@ -14,18 +14,8 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/l2.pdf)    
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
 
-- Ejemplo Naive Bayes  
+- Ejemplo Naive Bayes, K-Nearest Neighbors y Regresión Logística  
   - [Notebook (COLAB)](#)  (https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U4L21.ipynb)  
-  - [Archivo de datos (CSV)](#)  
-  - [Vídeo explicativo (YOUTUBE)](#)  
-
-- Ejemplo K-Nearest Neighbors  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
-  - [Vídeo explicativo (YOUTUBE)](#)  
-
-- Ejemplo Regresión Logística  
-  - [Notebook (COLAB)](#)  
   - [Archivo de datos (CSV)](#)  
   - [Vídeo explicativo (YOUTUBE)](#)  
 
