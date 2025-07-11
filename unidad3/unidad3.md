@@ -16,24 +16,13 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
 
 - Ejemplo Naive Bayes, K-Nearest Neighbors y Regresión Logística  
   - [Notebook (COLAB)](#)  (https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U4L21.ipynb)  
-  - [Archivo de datos (CSV)](#)  
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)   
   - [Vídeo explicativo (YOUTUBE)](#)  
 
-- Ejemplo Support Vector Machines  
+- Ejemplo Support Vector Machines, Ejemplo Decision Trees y Random Forest, y Adaboost  
   - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/product_success_prediction_extended.csv)    
   - [Vídeo explicativo (YOUTUBE)](#)  
-
-- Ejemplo Decision Trees y Random Forest  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
-  - [Vídeo explicativo (YOUTUBE)](#)  
-
-- Ejemplo Adaboost  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
-  - [Vídeo explicativo (YOUTUBE)](#)
-
 
 ## Lección 3. Modelos supervisados para regresión: algoritmos, métricas y usos
 
