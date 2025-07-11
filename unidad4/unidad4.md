@@ -6,7 +6,7 @@ title: "Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis
 ## Lección 1. ¿Qué es el aprendizaje no supervisado? Conceptos y proceso general
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad4/l1.pdf)   
-- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
+- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/_FS5azNi1_Y)  
 
 
 ## Lección 2. Agrupación con k-medias y métodos jerárquicos: funcionamiento y aplicación
