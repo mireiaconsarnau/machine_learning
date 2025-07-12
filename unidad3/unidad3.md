@@ -6,9 +6,8 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
 ## Lección 1. ¿Qué es el aprendizaje supervisado? Fases y flujo de trabajo
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/l1.pdf)    
+- [Fases Aprendizaje Supervisado (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L10.ipynb)
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)
-- [Fases Aprendizaje Supervisado (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L20.ipynb) 
-- [Vídeo explicativo Fases (YOUTUBE)](#)
 
 ## Lección 2. Modelos supervisados para clasificación: algoritmos, métricas y usos
 
