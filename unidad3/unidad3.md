@@ -6,23 +6,44 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
 ## Lección 1. ¿Qué es el aprendizaje supervisado? Fases y flujo de trabajo
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/l1.pdf)    
-- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
-
+- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)
+- [Fases Aprendizaje Supervisado (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L20.ipynb) 
+- [Vídeo explicativo Fases (YOUTUBE)](#)
 
 ## Lección 2. Modelos supervisados para clasificación: algoritmos, métricas y usos
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/l2.pdf)    
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
 
-- Ejemplo Naive Bayes, K-Nearest Neighbors y Regresión Logística  
-  - [Notebook (COLAB)](#)  (https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U4L21.ipynb)  
-  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)   
+- Ejemplo Naive Bayes  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L21.ipynb)  
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)     
   - [Vídeo explicativo (YOUTUBE)](#)  
 
-- Ejemplo Support Vector Machines, Ejemplo Decision Trees y Random Forest, y Adaboost  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/product_success_prediction_extended.csv)    
+- Ejemplo K-Nearest Neighbors  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L22.ipynb)    
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)  
   - [Vídeo explicativo (YOUTUBE)](#)  
+
+- Ejemplo Regresión Logística  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L23.ipynb)    
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)    
+  - [Vídeo explicativo (YOUTUBE)](#)  
+
+- Ejemplo Support Vector Machines  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L24.ipynb)    
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)    
+  - [Vídeo explicativo (YOUTUBE)](#)  
+
+- Ejemplo Decision Trees y Random Forest  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L25.ipynb)    
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)    
+  - [Vídeo explicativo (YOUTUBE)](#)  
+
+- Ejemplo Adaboost  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L26.ipynb)    
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)    
+  - [Vídeo explicativo (YOUTUBE)](#)
 
 ## Lección 3. Modelos supervisados para regresión: algoritmos, métricas y usos
 
@@ -54,7 +75,7 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
 
 - Ejemplo completo de clasificación  
   - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/product_success_prediction_extended.csv)     
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 - Ejemplo completo de regresión  
