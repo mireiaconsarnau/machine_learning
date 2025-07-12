@@ -7,7 +7,7 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/l1.pdf)    
 - [Fases Aprendizaje Supervisado (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L10.ipynb)
-- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)
+- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/8G5L7Esd7cE)
 
 ## Lección 2. Modelos supervisados para clasificación: algoritmos, métricas y usos
 
