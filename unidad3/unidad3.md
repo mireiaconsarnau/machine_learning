@@ -11,73 +11,86 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
 
 ## Lección 2. Modelos supervisados para clasificación: algoritmos, métricas y usos
 
-- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/l2.pdf)    
+- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/l2.pdf)
+      
+- Ejemplo de un modelo para clasificación (Inicio - Parte 1)
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L21.ipynb)
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)
+  - [Vídeo explicativo (YOUTUBE)](#)  
 
-- Ejemplo Naive Bayes
+- Ejemplo Naive Bayes (Parte 2)
   - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#) 
-  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L21.ipynb)  
-  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)     
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L21.ipynb)        
   - [Vídeo explicativo (YOUTUBE)](#)  
 
-- Ejemplo K-Nearest Neighbors  
+- Ejemplo K-Nearest Neighbors (Parte 3)
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)   
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L22.ipynb)    
-  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)  
   - [Vídeo explicativo (YOUTUBE)](#)  
 
-- Ejemplo Regresión Logística  
-  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L23.ipynb)    
-  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)    
+- Ejemplo Regresión Logística (Parte 4)
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)   
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L23.ipynb)       
   - [Vídeo explicativo (YOUTUBE)](#)  
 
-- Ejemplo Support Vector Machines  
-  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L24.ipynb)    
-  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)    
+- Ejemplo Support Vector Machines (Parte 5)
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#) 
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L24.ipynb)     
   - [Vídeo explicativo (YOUTUBE)](#)  
 
-- Ejemplo Decision Trees y Random Forest  
-  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L25.ipynb)    
-  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)    
+- Ejemplo Decision Trees y Random Forest (Parte 6)
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)    
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L25.ipynb)     
   - [Vídeo explicativo (YOUTUBE)](#)  
 
-- Ejemplo Adaboost  
-  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L26.ipynb)    
-  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)    
+- Ejemplo Adaboost (Parte 7)
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)   
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L26.ipynb)      
+  - [Vídeo explicativo (YOUTUBE)](#)
+
+- Ejemplo de un modelo para clasificación (Final - Parte 8)
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L27.ipynb)
+  - [Vídeo explicativo (YOUTUBE)](#)
+    
+- Otro ejemplo completo de clasificación  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L2o.ipynb)  
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/product_success_prediction_extended.csv)     
   - [Vídeo explicativo (YOUTUBE)](#)
 
 ## Lección 3. Modelos supervisados para regresión: algoritmos, métricas y usos
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/l3.pdf)      
-- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
 
-- Ejemplo Regresión lineal  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+- Ejemplo de un modelo para regresión (Inicio - Parte 1)
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L31.ipynb)
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/pendent.csv)
+  - [Vídeo explicativo (YOUTUBE)](#)
+    
+- Ejemplo Regresión lineal (Parte 2)
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L32.ipynb)  
   - [Vídeo explicativo (YOUTUBE)](#)  
 
-- Ejemplo Support Vector Machines  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+- Ejemplo Support Vector Machines (Parte 3)
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L34.ipynb)  
   - [Vídeo explicativo (YOUTUBE)](#)  
 
-- Ejemplo Decision Trees y Random Forest  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+- Ejemplo Decision Trees y Random Forest (Parte 4)
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#) 
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L35.ipynb)   
   - [Vídeo explicativo (YOUTUBE)](#)  
 
-- Ejemplo Adaboost  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+- Ejemplo Adaboost (Parte 5)
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#) 
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L36.ipynb)  
   - [Vídeo explicativo (YOUTUBE)](#)  
 
+- Ejemplo de un modelo para regresión (Final - Parte 6)
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L27.ipynb)
+  - [Vídeo explicativo (YOUTUBE)](#)
 
-## Ejemplos completos (síntesis de las lecciones)
-
-- Ejemplo completo de clasificación  
-  - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/product_success_prediction_extended.csv)     
-  - [Vídeo explicativo (YOUTUBE)](#)  
-
-- Ejemplo completo de regresión  
-  - [Notebook (COLAB)](#)  
+- Otro ejemplo completo de regresión  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L38.ipynb)  
   - [Archivo de datos (CSV)](#)  
   - [Vídeo explicativo (YOUTUBE)](#)  
