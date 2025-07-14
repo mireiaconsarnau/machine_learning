@@ -63,7 +63,7 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
 
 - Ejemplo de un modelo para regresión (Inicio - Parte 1)
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L31.ipynb)
-  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/pendent.csv)
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/drug_effect_time.csv)
   - [Vídeo explicativo (YOUTUBE)](#)
     
 - Ejemplo Regresión lineal (Parte 2)
