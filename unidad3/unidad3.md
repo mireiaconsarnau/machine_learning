@@ -20,7 +20,7 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
   - [Vídeo explicativo (YOUTUBE)](#)  
 
  - Ejemplo Naive Bayes (Parte 2)
-   - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#) 
+   - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/tzJ9NPjfNPE) 
    - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L22.ipynb)        
    - [Vídeo explicativo (YOUTUBE)](#)  
 
