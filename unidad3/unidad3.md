@@ -40,7 +40,7 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 - Ejemplo Decision Trees y Random Forest (Parte 6)
-  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)    
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/-9f-yJSNblA)    
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L26.ipynb)     
   - [Vídeo explicativo (YOUTUBE)](#)  
 
