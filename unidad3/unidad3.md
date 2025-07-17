@@ -25,7 +25,7 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
    - [Vídeo explicativo (YOUTUBE)](#)  
 
 - Ejemplo K-Nearest Neighbors (Parte 3)
-  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)   
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/9HA3V6lB0wk)   
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L23.ipynb)    
   - [Vídeo explicativo (YOUTUBE)](#)  
 
