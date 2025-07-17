@@ -12,6 +12,7 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
 ## Lección 2. Modelos supervisados para clasificación: algoritmos, métricas y usos
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/l2.pdf)
+- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/NeHhxBUhndI)
       
 - Ejemplo de un modelo para clasificación (Inicio - Parte 1)
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L21.ipynb)
