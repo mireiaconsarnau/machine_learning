@@ -15,12 +15,12 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/NeHhxBUhndI)
       
 - Ejemplo de un modelo para clasificación (Inicio - Parte 1)
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/tzJ9NPjfNPE) 
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L21.ipynb)
   - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)
   - [Vídeo explicativo (YOUTUBE)](#)  
 
  - Ejemplo Naive Bayes (Parte 2)
-   - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/tzJ9NPjfNPE) 
    - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L22.ipynb)        
    - [Vídeo explicativo (YOUTUBE)](#)  
 
