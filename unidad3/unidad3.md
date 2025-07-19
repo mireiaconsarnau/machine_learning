@@ -18,16 +18,16 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
   - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/3CrsngvAFaU)
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L21.ipynb)
   - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)
-  - [Vídeo explicativo (YOUTUBE)](#)  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/Pr5UmL0kJ0c)
 
  - Ejemplo Naive Bayes (Parte 2)
    - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L22.ipynb)        
-   - [Vídeo explicativo (YOUTUBE)](#)  
+   - [Vídeo explicativo (YOUTUBE)](https://youtu.be/jZABJ8dDouc)
 
 - Ejemplo K-Nearest Neighbors (Parte 3)
   - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/LyM0DTCCBnQ)
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L23.ipynb)    
-  - [Vídeo explicativo (YOUTUBE)](#)  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/uB9cFsDT90s)
 
 - Ejemplo Regresión Logística (Parte 4)
   - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/ObSadu-7Z_4)
