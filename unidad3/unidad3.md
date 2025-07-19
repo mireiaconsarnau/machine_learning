@@ -15,7 +15,7 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/NeHhxBUhndI)
       
 - Ejemplo de un modelo para clasificación (Inicio - Parte 1)
-  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/tzJ9NPjfNPE) 
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/3CrsngvAFaU)
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L21.ipynb)
   - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/wildfires.csv)
   - [Vídeo explicativo (YOUTUBE)](#)  
@@ -25,27 +25,27 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
    - [Vídeo explicativo (YOUTUBE)](#)  
 
 - Ejemplo K-Nearest Neighbors (Parte 3)
-  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/9HA3V6lB0wk)   
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/LyM0DTCCBnQ)
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L23.ipynb)    
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 - Ejemplo Regresión Logística (Parte 4)
-  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/1-j9lgzMdPs)   
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/ObSadu-7Z_4)
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L24.ipynb)       
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 - Ejemplo Support Vector Machines (Parte 5)
-  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/-9f-yJSNblA) 
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/r4ZuL3iX9eU)
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L25.ipynb)     
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 - Ejemplo Decision Trees y Random Forest (Parte 6)
-  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/Skv5Me3ityg)    
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/ub2jPEATEHM)
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L26.ipynb)     
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 - Ejemplo Adaboost (Parte 7)
-  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/K7cgBMhbIBE)   
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/7HvUTNZtikY)
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L27.ipynb)      
   - [Vídeo explicativo (YOUTUBE)](#)
 
