@@ -60,7 +60,8 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
 
 ## Lección 3. Modelos supervisados para regresión: algoritmos, métricas y usos
 
-- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/l3.pdf)      
+- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/l3.pdf)
+- [Vídeo de recapitulación de conceptos clave (YOUTUBE)]()      
 
 - Ejemplo de un modelo para regresión (Inicio - Parte 1)
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L31.ipynb)
