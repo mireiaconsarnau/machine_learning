@@ -64,12 +64,12 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/lTEX-qJ9fE0)      
 
 - Ejemplo de un modelo para regresión (Inicio - Parte 1)
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/3hBL-ynQmJE) 
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L31.ipynb)
   - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/drug_effect_time.csv)
   - [Vídeo explicativo (YOUTUBE)](#)
     
 - Ejemplo Regresión lineal (Parte 2)
-  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L32.ipynb)  
   - [Vídeo explicativo (YOUTUBE)](#)  
 
