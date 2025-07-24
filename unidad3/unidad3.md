@@ -67,32 +67,32 @@ title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
   - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/3hBL-ynQmJE) 
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L31.ipynb)
   - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/drug_effect_time.csv)
-  - [Vídeo explicativo (YOUTUBE)](#)
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/U6KOWnFZq7o)
     
 - Ejemplo Regresión lineal (Parte 2)
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L32.ipynb)  
-  - [Vídeo explicativo (YOUTUBE)](#)  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/IjWRJsfCgyE)  
 
 - Ejemplo Support Vector Machines (Parte 3)
   - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/zDaB5BqiBf0)  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L33.ipynb)  
-  - [Vídeo explicativo (YOUTUBE)](#)  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/cDsUBdRPFhU)  
 
 - Ejemplo Decision Trees y Random Forest (Parte 4)
-  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#) 
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/1CHUfwHQjPs) 
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L34.ipynb)   
-  - [Vídeo explicativo (YOUTUBE)](#)  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/ddaNHjqjnMU)  
 
 - Ejemplo Adaboost (Parte 5)
-  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#) 
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/9ccHB3koPDk) 
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L35.ipynb)  
-  - [Vídeo explicativo (YOUTUBE)](#)  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/_rIGQyPuqug)  
 
 - Ejemplo de un modelo para regresión (Final - Parte 6)
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L36.ipynb)
-  - [Vídeo explicativo (YOUTUBE)](#)
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/PvqMftnLaZg)
 
 - Otro ejemplo completo de regresión  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U3L37.ipynb)  
   - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/treatments.csv)
-  - [Vídeo explicativo (YOUTUBE)](#)  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/5sBVe-pOh3A)  
