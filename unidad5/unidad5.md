@@ -10,12 +10,12 @@ title: "Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automátic
 
 - Ejemplo MLP para clasificación  
   - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/product_success_prediction_extended.csv)  
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 - Ejemplo MLP para regresión  
   - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+  - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/csv/drug_effect_time.csv)  
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 
