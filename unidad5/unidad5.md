@@ -9,7 +9,7 @@ title: "Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automátic
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
 
 - Ejemplo MLP para clasificación  
-  - [Notebook (COLAB)](#)  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad5/cuadernos/U5L11.ipynb)   
   - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/product_success_prediction_extended.csv)  
   - [Vídeo explicativo (YOUTUBE)](#)  
 
