@@ -26,7 +26,7 @@ title: "Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automátic
 
 - Ejemplo autoencoder convolucional  
   - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
+  - [Archivo de datos (TAR.GZ)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/csv/notMNIST_small.tar.gz)   
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 - Ejemplo RNN (LSTM) para predicción en series temporales  
