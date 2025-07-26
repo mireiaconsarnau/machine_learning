@@ -32,7 +32,6 @@ title: "Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automátic
 - Ejemplo RNN (LSTM) para predicción en series temporales
   - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/RVDHBUZWnnE)
   - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 ## Lección 3. Evolución del aprendizaje profundo y otras técnicas modernas de ML
