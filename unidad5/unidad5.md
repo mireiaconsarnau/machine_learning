@@ -22,14 +22,15 @@ title: "Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automátic
 ## Lección 2. Otras arquitecturas de redes neuronales
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/l2.pdf)     
-- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)
 
-- Ejemplo autoencoder convolucional  
+- Ejemplo autoencoder convolucional
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/RVDHBUZWnnE)
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad5/cuadernos/U5L21.ipynb)    
   - [Archivo de datos (TAR.GZ)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/csv/notMNIST_small.tar.gz)   
   - [Vídeo explicativo (YOUTUBE)](#)  
 
-- Ejemplo RNN (LSTM) para predicción en series temporales  
+- Ejemplo RNN (LSTM) para predicción en series temporales
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/RVDHBUZWnnE)
   - [Notebook (COLAB)](#)  
   - [Archivo de datos (CSV)](#)  
   - [Vídeo explicativo (YOUTUBE)](#)  
