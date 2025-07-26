@@ -14,7 +14,7 @@ title: "Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automátic
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 - Ejemplo MLP para regresión  
-  - [Notebook (COLAB)](#)  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad5/cuadernos/U5L12.ipynb)   
   - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/csv/drug_effect_time.csv)  
   - [Vídeo explicativo (YOUTUBE)](#)  
 
