@@ -25,7 +25,7 @@ title: "Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automátic
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)
 
 - Ejemplo autoencoder convolucional  
-  - [Notebook (COLAB)](#)  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad5/cuadernos/U5L21.ipynb)    
   - [Archivo de datos (TAR.GZ)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/csv/notMNIST_small.tar.gz)   
   - [Vídeo explicativo (YOUTUBE)](#)  
 
