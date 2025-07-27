@@ -30,21 +30,21 @@ title: "Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automátic
   - [Vídeo explicativo (YOUTUBE)](https://youtu.be/bzv28nkh8O4)  
 
 - Ejemplo RNN (LSTM) para predicción en series temporales
-  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)]([u5l22](https://youtu.be/hJd_i8V5uW8))
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/hJd_i8V5uW8)
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad5/cuadernos/U5L22.ipynb)  
-  - [Vídeo explicativo (YOUTUBE)]([u5l23](https://youtu.be/w5giA6Fe3dk))  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/w5giA6Fe3dk)  
 
 ## Lección 3. Evolución del aprendizaje profundo y otras técnicas modernas de ML
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/l3.pdf)     
 
 - Ejemplo CNN para clasificación de imágenes con Transfer Learning
-  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)]([u5l30](https://youtu.be/wkovhrD2_OI)) 
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/wkovhrD2_OI) 
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad5/cuadernos/U5L31.ipynb)   
   - [Archivo de datos (ZIP)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/csv/datos_U5L31.zip)   
-  - [Vídeo explicativo (YOUTUBE)]([u5l31](https://youtu.be/rPhDw445THU))  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/rPhDw445THU)  
 
 - Ejemplo de aplicación de un algoritmo genético
-  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)]([u5l32](https://youtu.be/qjxRbiU5vWI)) 
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/qjxRbiU5vWI) 
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad5/cuadernos/U5L32.ipynb)    
-  - [Vídeo explicativo (YOUTUBE)]([u5l33](https://youtu.be/-2cLgB-4m48))  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/-2cLgB-4m48) 
