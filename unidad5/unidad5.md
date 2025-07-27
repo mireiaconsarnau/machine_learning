@@ -36,15 +36,16 @@ title: "Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automátic
 
 ## Lección 3. Evolución del aprendizaje profundo y otras técnicas modernas de ML
 
-- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/l3.pdf)    
-- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](#)  
+- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/l3.pdf)     
 
-- Ejemplo CNN para clasificación de imágenes con Transfer Learning  
+- Ejemplo CNN para clasificación de imágenes con Transfer Learning
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](u5l30) 
   - [Notebook (COLAB)](#)  
   - [Archivo de datos (ZIP)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/csv/datos_U5L31.zip)   
   - [Vídeo explicativo (YOUTUBE)](#)  
 
-- Ejemplo de aplicación de un algoritmo genético  
+- Ejemplo de aplicación de un algoritmo genético
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](u5l30) 
   - [Notebook (COLAB)](#)  
   - [Archivo de datos (CSV)](#)  
   - [Vídeo explicativo (YOUTUBE)](#)  
