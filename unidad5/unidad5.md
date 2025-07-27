@@ -46,5 +46,5 @@ title: "Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automátic
 
 - Ejemplo de aplicación de un algoritmo genético
   - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](u5l32) 
-  - [Notebook (COLAB)](u5l32)  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad5/cuadernos/U5L32.ipynb)    
   - [Vídeo explicativo (YOUTUBE)](u5l33)  
