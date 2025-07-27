@@ -40,11 +40,11 @@ title: "Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automátic
 
 - Ejemplo CNN para clasificación de imágenes con Transfer Learning
   - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](u5l30) 
-  - [Notebook (COLAB)](#)  
+  - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad5/cuadernos/U5L31.ipynb)   
   - [Archivo de datos (ZIP)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/csv/datos_U5L31.zip)   
-  - [Vídeo explicativo (YOUTUBE)](#)  
+  - [Vídeo explicativo (YOUTUBE)](u5l31)  
 
 - Ejemplo de aplicación de un algoritmo genético
-  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](u5l31) 
-  - [Notebook (COLAB)](#)  
-  - [Vídeo explicativo (YOUTUBE)](#)  
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](u5l32) 
+  - [Notebook (COLAB)](u5l32)  
+  - [Vídeo explicativo (YOUTUBE)](u5l33)  
