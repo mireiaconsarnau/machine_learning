@@ -45,7 +45,6 @@ title: "Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automátic
   - [Vídeo explicativo (YOUTUBE)](#)  
 
 - Ejemplo de aplicación de un algoritmo genético
-  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](u5l30) 
+  - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](u5l31) 
   - [Notebook (COLAB)](#)  
-  - [Archivo de datos (CSV)](#)  
   - [Vídeo explicativo (YOUTUBE)](#)  
