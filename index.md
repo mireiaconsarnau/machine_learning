@@ -22,3 +22,5 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 ### [Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automático](unidad5/unidad5.md)  
 
 ### [Relación entre Unidades y Resultados de Aprendizaje (RAs)](ras.md)  
+
+### [FAQs](faqs/faqs.md)  
