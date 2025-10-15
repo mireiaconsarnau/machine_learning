@@ -24,3 +24,5 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 ### [Relación entre Unidades y Resultados de Aprendizaje (RAs)](ras.md)  
 
 ### [FAQs](faqs/faqs.md)  
+
+### [Fe de Erratas](fde/fed.md)  
