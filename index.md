@@ -25,4 +25,4 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 ### [FAQs](faqs/faqs.md)  
 
-### [Fe de Erratas](fde/fed.md)  
+### [Fe de Erratas](fed/fed.md)  
