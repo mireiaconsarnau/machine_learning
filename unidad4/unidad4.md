@@ -1,5 +1,5 @@
 ---
-title: "Unidad 4 · Aprendizaje no supervisado"
+title: "Unidad 4 · No supervisado"
 nav_order: 5
 ---
 

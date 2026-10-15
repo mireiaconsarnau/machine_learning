@@ -1,5 +1,5 @@
 ---
-title: "Unidad 1 · Fundamentos de IA y AA"
+title: "Unidad 1 · Fundamentos de IA"
 nav_order: 2
 ---
 
