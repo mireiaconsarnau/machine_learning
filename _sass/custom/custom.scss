@@ -20,9 +20,9 @@
 // ------------------------------------------------------------
 // Resúmenes visuales (fichas por lección)
 // ------------------------------------------------------------
-// Color propio de los resúmenes: verde bosque
-$acento: #2e7d4f;
-$acento-suave: #e8f3ec;
+// Color propio de los resúmenes: petróleo
+$acento: #0f6e7a;
+$acento-suave: #e6f2f3;
 $aviso: #b45309;
 $aviso-suave: #fdf3e7;
 $borde: #dfe3e8;
@@ -230,14 +230,14 @@ $borde: #dfe3e8;
 // (el orden sigue el nav_order de cada página)
 // ------------------------------------------------------------
 $menu-colores: (
-  1: #3f4a5a,   // Inicio · gris pizarra
-  2: #0f6e7a,   // Unidades 1-5 · petróleo
-  3: #0f6e7a,
-  4: #0f6e7a,
-  5: #0f6e7a,
-  6: #0f6e7a,
-  7: #2e7d4f,   // Resúmenes visuales · verde bosque
-  8: #3b5b9a,   // Resultados de Aprendizaje · azul pizarra
+  1: #4b5563,   // Inicio · gris
+  2: #2c4766,   // Unidades 1-5 · azul marino grisáceo
+  3: #2c4766,
+  4: #2c4766,
+  5: #2c4766,
+  6: #2c4766,
+  7: #0f6e7a,   // Resúmenes visuales · petróleo
+  8: #2e7d4f,   // Resultados de Aprendizaje · verde bosque
   9: #a16207,   // FAQs · ocre
   10: #c62828,  // Fe de erratas · rojo
   11: #6b7280   // Licencia · gris
@@ -268,7 +268,7 @@ $menu-colores: (
   }
 }
 
-// Las páginas de resúmenes usan su verde en enlaces y botones
+// Las páginas de resúmenes usan su petróleo en enlaces y botones
 .pagina-resumen {
   .main-content a:not(.btn) { color: $acento; }
   .main-content .btn-primary { background-color: $acento; background-image: none; border-color: $acento; }
