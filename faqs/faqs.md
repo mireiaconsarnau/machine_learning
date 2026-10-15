@@ -1,7 +1,9 @@
 ---
-layout: default
 title: "FAQs"
+nav_order: 8
 ---
+
+# FAQs
 
 ## Sobre el problema y los datos
 

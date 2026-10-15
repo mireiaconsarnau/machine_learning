@@ -1,7 +1,9 @@
 ---
-layout: default
-title: "Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automático"
+title: "U5 · Redes neuronales"
+nav_order: 6
 ---
+
+# Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automático
 
 ## Lección 1. Redes neuronales artificiales
 

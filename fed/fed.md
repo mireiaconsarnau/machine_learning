@@ -1,7 +1,9 @@
 ---
-layout: default
-title: "Fe de Erratas"
+title: "Fe de erratas"
+nav_order: 9
 ---
+
+# Fe de Erratas
 
 ## Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis de patrones
 

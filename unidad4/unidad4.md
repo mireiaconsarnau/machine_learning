@@ -1,7 +1,9 @@
 ---
-layout: default
-title: "Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis de patrones"
+title: "U4 · Aprendizaje no supervisado"
+nav_order: 5
 ---
+
+# Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis de patrones
 
 ## Lección 1. ¿Qué es el aprendizaje no supervisado? Conceptos y proceso general
 

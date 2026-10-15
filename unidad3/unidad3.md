@@ -1,7 +1,9 @@
 ---
-layout: default
-title: "Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo"
+title: "U3 · Aprendizaje supervisado"
+nav_order: 4
 ---
+
+# Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo
 
 ## Lección 1. ¿Qué es el aprendizaje supervisado? Fases y flujo de trabajo
 

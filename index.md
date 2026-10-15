@@ -1,7 +1,9 @@
 ---
-layout: default
-title: "Curso de Machine Learning"
+title: "Inicio"
+nav_order: 1
 ---
+
+# Curso de Machine Learning
 
 Este repositorio contiene el material del curso de Machine Learning desarrollado por Mireia Consarnau.
 

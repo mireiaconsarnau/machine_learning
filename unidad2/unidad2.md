@@ -1,7 +1,9 @@
 ---
-layout: default
-title: "Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje automático"
+title: "U2 · Preprocesamiento de datos"
+nav_order: 3
 ---
+
+# Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje automático
 
 ## Lección 1. Importancia del preprocesamiento: calidad y consistencia de los datos
 

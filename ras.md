@@ -1,7 +1,9 @@
 ---
-layout: default
-title: "Relación entre Unidades y Resultados de Aprendizaje (RAs) "
+title: "Resultados de Aprendizaje"
+nav_order: 7
 ---
+
+# Relación entre Unidades y Resultados de Aprendizaje (RAs)
 
 - **Unidad 1** - RA1 Caracteriza la Inteligencia Artificial fuerte y débil determinando usos y posibilidades
 - **Unidad 1** - RA2 Determina técnicas y herramientas de sistemas de aprendizaje automático, testeando su aplicabilidad 
