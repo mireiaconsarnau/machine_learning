@@ -47,3 +47,35 @@
       });
   });
 </script>
+<script>
+  /* Resúmenes: barra fija que indica la lección que se está leyendo */
+  document.addEventListener('DOMContentLoaded', function () {
+    if (!document.documentElement.classList.contains('pagina-resumen')) return;
+    var contenido = document.querySelector('.main-content');
+    var titulos = contenido ? Array.prototype.slice.call(contenido.querySelectorAll('h2')) : [];
+    if (titulos.length < 2) return;
+    var barra = document.createElement('div');
+    barra.className = 'leccion-actual';
+    barra.setAttribute('aria-hidden', 'true');
+    barra.innerHTML = '<span class="contador"></span><span class="titulo"></span>';
+    document.body.appendChild(barra);
+    var contador = barra.querySelector('.contador');
+    var titulo = barra.querySelector('.titulo');
+    function actualizar() {
+      var caja = contenido.getBoundingClientRect();
+      barra.style.left = caja.left + 'px';
+      barra.style.width = caja.width + 'px';
+      var actual = -1;
+      titulos.forEach(function (h, i) {
+        if (h.getBoundingClientRect().top < 70) actual = i;
+      });
+      if (actual < 0) { barra.classList.remove('visible'); return; }
+      contador.textContent = (actual + 1) + ' / ' + titulos.length;
+      titulo.textContent = titulos[actual].textContent.trim();
+      barra.classList.add('visible');
+    }
+    window.addEventListener('scroll', actualizar, { passive: true });
+    window.addEventListener('resize', actualizar);
+    actualizar();
+  });
+</script>
