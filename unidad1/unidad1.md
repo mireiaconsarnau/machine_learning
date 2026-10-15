@@ -24,3 +24,7 @@ nav_order: 2
 - [Vídeo explicativo (YOUTUBE)](https://youtu.be/dl-HzKSbYK4)
 - [Resumen visual (INFOGRAFÍA)](../resumenes/unidad1.md#leccion-3)
 
+
+## Síntesis de la unidad
+
+- [Síntesis de la unidad (INFOGRAFÍA)](../resumenes/unidad1.md#sintesis)

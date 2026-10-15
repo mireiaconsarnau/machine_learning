@@ -327,3 +327,79 @@ df
   <a class="btn" href="https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad1/cuadernos/U1L31.ipynb">Abrir el notebook (Colab)</a>
   <a class="btn" href="https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad1/csv/datos.csv">Archivo de datos (CSV)</a>
 </div>
+
+## Síntesis de la unidad {#sintesis}
+
+<div class="ficha-lead">
+La unidad en una página: <strong>qué es la IA</strong>, cómo encaja el <strong>aprendizaje automático</strong> y cómo se construye un modelo, y <strong>dónde vamos a trabajar</strong> en la práctica.
+</div>
+
+### Del concepto a la práctica
+
+<div class="diagrama">
+  <div class="ruta">
+    <div class="etapa">
+      <div class="nombre"><span class="num">1</span>Entender la IA</div>
+      <div class="pregunta">¿Qué significa que una máquina sea inteligente?</div>
+      <div class="tecnicas">Inteligencia ≠ conciencia; las cuatro perspectivas de Russell y Norvig</div>
+      <span class="leccion">Lección 1</span>
+    </div>
+    <div class="etapa">
+      <div class="nombre"><span class="num">2</span>Situar sus límites</div>
+      <div class="pregunta">¿Qué puede hacer hoy y qué no?</div>
+      <div class="tecnicas">IA débil, IAG e IA fuerte; test de Turing y habitación china; ética</div>
+      <span class="leccion">Lección 1</span>
+    </div>
+    <div class="etapa">
+      <div class="nombre"><span class="num">3</span>Aprender de datos</div>
+      <div class="pregunta">¿Cómo aprende una máquina sin reglas fijas?</div>
+      <div class="tecnicas">Aprendizaje automático, generalización, dependencia de los datos</div>
+      <span class="leccion">Lección 2</span>
+    </div>
+    <div class="etapa">
+      <div class="nombre"><span class="num">4</span>Elegir el enfoque</div>
+      <div class="pregunta">¿Qué tipo de problema tengo?</div>
+      <div class="tecnicas">Supervisado (clasificación, regresión), no supervisado, refuerzo</div>
+      <span class="leccion">Lección 2</span>
+    </div>
+    <div class="etapa">
+      <div class="nombre"><span class="num">5</span>Construir el modelo</div>
+      <div class="pregunta">¿Qué pasos sigo?</div>
+      <div class="tecnicas">Datos → algoritmo → entrenamiento → evaluación → inferencia → refinamiento</div>
+      <span class="leccion">Lección 2</span>
+    </div>
+    <div class="etapa">
+      <div class="nombre"><span class="num">6</span>Ponerlo en marcha</div>
+      <div class="pregunta">¿Dónde trabajo con los datos?</div>
+      <div class="tecnicas">Notebooks de Google Colab, Markdown, <code>pandas</code>, <code>pd.read_csv()</code></div>
+      <span class="leccion">Lección 3</span>
+    </div>
+  </div>
+</div>
+
+### Si ves… haz…
+
+<div class="diagrama">
+  <table class="decisiones">
+    <tbody>
+      <tr><td>Datos con la respuesta y salida categórica</td><td>Aprendizaje supervisado: clasificación</td></tr>
+      <tr><td>Datos con la respuesta y salida numérica continua</td><td>Aprendizaje supervisado: regresión</td></tr>
+      <tr><td>Datos sin etiquetas y quieres encontrar grupos</td><td>Aprendizaje no supervisado: clustering</td></tr>
+      <tr><td>Demasiadas variables para manejarlas</td><td>Reducción de dimensionalidad (por ejemplo, PCA)</td></tr>
+      <tr><td>Un agente que aprende con recompensas</td><td>Aprendizaje por refuerzo</td></tr>
+      <tr><td>Pocos datos etiquetados y muchos sin etiquetar</td><td>Aprendizaje semisupervisado</td></tr>
+      <tr><td>Acierta mucho al entrenar y poco con datos nuevos</td><td>Sobreajuste: regularización, validación cruzada, más y mejores datos</td></tr>
+      <tr><td>Hay que explicar por qué decide el modelo</td><td>Cuidado con la «caja negra»: modelos interpretables e IA explicable</td></tr>
+      <tr><td>En Colab: <code>NameError: name 'pd'…</code></td><td>Ejecuta antes la celda del <code>import</code></td></tr>
+      <tr><td>En Colab: <code>FileNotFoundError</code></td><td>Monta Drive y revisa la ruta del archivo</td></tr>
+    </tbody>
+  </table>
+</div>
+
+### Tres reglas de oro
+
+<div class="reglas">
+  <div class="regla"><strong>Inteligencia no es conciencia</strong>Que un sistema responda bien no significa que comprenda lo que hace.</div>
+  <div class="regla"><strong>Los datos mandan</strong>Un modelo solo es tan bueno como los datos con los que aprende.</div>
+  <div class="regla"><strong>Evalúa con datos nuevos</strong>La prueba de verdad es acertar con datos que el modelo no ha visto.</div>
+</div>
