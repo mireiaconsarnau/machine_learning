@@ -224,3 +224,46 @@ $borde: #dfe3e8;
   font-size: 0.88rem;
   code { white-space: nowrap; }
 }
+
+// ------------------------------------------------------------
+// Colores del menú lateral por apartado
+// (el orden sigue el nav_order de cada página)
+// ------------------------------------------------------------
+$menu-colores: (
+  1: #3f4a5a,   // Inicio · gris pizarra
+  2: #0f6e7a,   // Unidades 1-5 · petróleo
+  3: #0f6e7a,
+  4: #0f6e7a,
+  5: #0f6e7a,
+  6: #0f6e7a,
+  7: #c2410c,   // Resúmenes visuales · terracota
+  8: #3b5b9a,   // Resultados de Aprendizaje · azul pizarra
+  9: #a16207,   // FAQs · ocre
+  10: #9f1239,  // Fe de erratas · granate
+  11: #6b7280   // Licencia · gris
+);
+
+.site-nav > .nav-list > .nav-list-item {
+  @each $n, $color in $menu-colores {
+    &:nth-child(#{$n}) {
+      > .nav-list-link {
+        color: $color;
+        box-shadow: inset 3px 0 0 $color;
+      }
+      > .nav-list-link:hover,
+      > .nav-list-link.active {
+        background-color: rgba($color, 0.08);
+        background-image: none;
+      }
+      > .nav-list-expander { color: $color; }
+      > .nav-list .nav-list-link.active { color: $color; }
+    }
+  }
+  // Línea que separa las unidades del resto de apartados
+  &:nth-child(2),
+  &:nth-child(7) {
+    margin-top: 0.6rem;
+    padding-top: 0.6rem;
+    border-top: 1px solid $borde;
+  }
+}

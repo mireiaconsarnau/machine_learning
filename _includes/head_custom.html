@@ -11,11 +11,13 @@
         Object.keys(data).forEach(function (k) {
           var d = data[k];
           var partes = d.url.split('#');
-          if (partes.length < 2 || !/\/unidad\d\//.test(partes[0])) return;
-          if (/^Unidad \d/.test(d.title)) return;
+          if (partes.length < 2) return;
+          /* Páginas de unidad (unidadN/unidadN.html) y resúmenes (resumenes/unidadN.html) */
+          if (!/\/unidad\d\/|\/resumenes\/unidad\d/.test(partes[0])) return;
+          if (/^(Unidad \d|Resumen visual)/.test(d.title)) return;
           (lecciones[partes[0]] = lecciones[partes[0]] || []).push(d);
         });
-        nav.querySelectorAll(':scope > ul > li.nav-list-item').forEach(function (li) {
+        nav.querySelectorAll('li.nav-list-item').forEach(function (li) {
           var enlace = li.querySelector(':scope > a.nav-list-link');
           if (!enlace) return;
           /* El tema quita el href del enlace de la página actual */
