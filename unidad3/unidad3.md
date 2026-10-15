@@ -1,5 +1,5 @@
 ---
-title: "U3 · Aprendizaje supervisado"
+title: "Unidad 3 · Aprendizaje supervisado"
 nav_order: 4
 ---
 

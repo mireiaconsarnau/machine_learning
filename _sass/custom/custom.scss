@@ -1,6 +1,16 @@
 // Ajustes propios sobre el tema Just the Docs
+.site-title {
+  font-size: 1.25rem !important;
+  line-height: 1.3;
+}
 .main-content h1:first-child {
   line-height: 1.25;
+}
+.site-nav .nav-list .nav-list .nav-list-link {
+  font-size: 0.85rem;
+  line-height: 1.35;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
 }
 .site-footer a {
   color: inherit;

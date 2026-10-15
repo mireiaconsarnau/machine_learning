@@ -1,0 +1,46 @@
+<script>
+  /* Añade las lecciones de cada unidad como submenú en el menú lateral.
+     Se leen del índice del buscador: los encabezados "##" de cada unidad. */
+  document.addEventListener('DOMContentLoaded', function () {
+    var nav = document.getElementById('site-nav');
+    if (!nav) return;
+    fetch('{{ "assets/js/search-data.json" | relative_url }}')
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        var lecciones = {};
+        Object.keys(data).forEach(function (k) {
+          var d = data[k];
+          var partes = d.url.split('#');
+          if (partes.length < 2 || !/\/unidad\d\//.test(partes[0])) return;
+          if (/^Unidad \d/.test(d.title)) return;
+          (lecciones[partes[0]] = lecciones[partes[0]] || []).push(d);
+        });
+        nav.querySelectorAll(':scope > ul > li.nav-list-item').forEach(function (li) {
+          var enlace = li.querySelector(':scope > a.nav-list-link');
+          if (!enlace) return;
+          /* El tema quita el href del enlace de la página actual */
+          var lista = lecciones[enlace.getAttribute('href') || location.pathname];
+          if (!lista) return;
+          var boton = document.createElement('button');
+          boton.className = 'nav-list-expander btn-reset';
+          boton.setAttribute('aria-label', 'Mostrar lecciones de ' + enlace.textContent);
+          boton.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>';
+          li.insertBefore(boton, enlace);
+          var ul = document.createElement('ul');
+          ul.className = 'nav-list';
+          lista.forEach(function (d) {
+            var item = document.createElement('li');
+            item.className = 'nav-list-item';
+            var a = document.createElement('a');
+            a.className = 'nav-list-link';
+            a.href = d.url;
+            a.textContent = d.title.split(':')[0];
+            a.title = d.title;
+            item.appendChild(a);
+            ul.appendChild(item);
+          });
+          li.appendChild(ul);
+        });
+      });
+  });
+</script>

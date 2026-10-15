@@ -1,5 +1,5 @@
 ---
-title: "U5 · Redes neuronales"
+title: "Unidad 5 · Redes neuronales"
 nav_order: 6
 ---
 

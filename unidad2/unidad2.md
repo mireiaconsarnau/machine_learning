@@ -1,5 +1,5 @@
 ---
-title: "U2 · Preprocesamiento de datos"
+title: "Unidad 2 · Preprocesamiento de datos"
 nav_order: 3
 ---
 
