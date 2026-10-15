@@ -13,7 +13,7 @@ Este repositorio contiene el material del curso de Machine Learning desarrollado
 
 ## Licencia
 
-El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
+El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0](LICENSE.md).
 
 ## Contenido del curso
 
