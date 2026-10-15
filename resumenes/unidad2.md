@@ -497,39 +497,86 @@ No todas las variables ayudan: algunas solo añaden <strong>ruido</strong>. Sele
   <a class="btn" href="https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad2/cuadernos/U2L24.ipynb">Colab: PCA</a>
 </div>
 
-## Ejemplo completo: el mapa del notebook {#ejemplo-completo}
+## Síntesis de la unidad {#sintesis}
 
 <div class="ficha-lead">
-El notebook de síntesis aplica <strong>todo el preprocesamiento de la unidad</strong> sobre un mismo dataset de clientes. Úsalo como guía para tus propios proyectos.
+Todo el preprocesamiento en una página: <strong>las preguntas que debes hacerte, en orden</strong>, y qué herramienta usar en cada caso.
 </div>
 
+### El camino de los datos
+
 <div class="diagrama">
-  <div class="diagrama-titulo">Recorrido del ejemplo, por fases</div>
-  <div class="arbol cuatro">
-    <div class="rama">
-      <div class="rama-cab">1 · Cargar y limpiar<small>Lecciones 1 y 2</small></div>
-      <div class="hoja">Cargar el CSV</div>
-      <div class="hoja">Selección inicial de características</div>
-      <div class="hoja">Nulos, valores únicos y duplicados</div>
+  <div class="ruta">
+    <div class="etapa">
+      <div class="nombre"><span class="num">1</span>Explorar</div>
+      <div class="pregunta">¿Cómo son mis datos?</div>
+      <div class="tecnicas">Histogramas, boxplots, correlaciones, <code>isna()</code>, <code>unique()</code></div>
+      <span class="leccion">Lección 3</span>
     </div>
-    <div class="rama">
-      <div class="rama-cab">2 · Explorar<small>Lección 3</small></div>
-      <div class="hoja">Distribuciones</div>
-      <div class="hoja">Correlación con la variable objetivo</div>
-      <div class="hoja">Equilibrio de clases y outliers</div>
+    <div class="etapa">
+      <div class="nombre"><span class="num">2</span>Limpiar</div>
+      <div class="pregunta">¿Hay huecos, repetidos o errores?</div>
+      <div class="tecnicas"><code>fillna()</code>, <code>drop_duplicates()</code>, unificar formatos, corregir rangos</div>
+      <span class="leccion">Lección 2</span>
     </div>
-    <div class="rama">
-      <div class="rama-cab">3 · Preparar<small>Lecciones 4 y 5</small></div>
-      <div class="hoja">División en entrenamiento y prueba</div>
-      <div class="hoja">Separar columnas por tipo y codificar</div>
-      <div class="hoja">Correlaciones, escalado y PCA</div>
+    <div class="etapa">
+      <div class="nombre"><span class="num">3</span>Dividir</div>
+      <div class="pregunta">¿Con qué datos aprende y con cuáles lo evalúo?</div>
+      <div class="tecnicas">Entrenamiento y prueba; las transformaciones se ajustan solo con entrenamiento</div>
+      <span class="leccion">Lección 1</span>
     </div>
-    <div class="rama">
-      <div class="rama-cab">4 · Automatizar<small>Lección 4</small></div>
-      <div class="hoja">Pipelines que encadenan todo el proceso de forma reproducible</div>
+    <div class="etapa">
+      <div class="nombre"><span class="num">4</span>Transformar</div>
+      <div class="pregunta">¿Son todo números en escalas comparables?</div>
+      <div class="tecnicas">One-Hot / ordinal, logaritmo o Box-Cox, Min-Max, Z-score, escalado robusto</div>
+      <span class="leccion">Lección 4</span>
+    </div>
+    <div class="etapa">
+      <div class="nombre"><span class="num">5</span>Reducir</div>
+      <div class="pregunta">¿Todas las variables aportan?</div>
+      <div class="tecnicas">Filtrado (Pearson, Spearman, chi-cuadrado), PCA, LDA</div>
+      <span class="leccion">Lección 5</span>
+    </div>
+    <div class="etapa">
+      <div class="nombre"><span class="num">6</span>Automatizar</div>
+      <div class="pregunta">¿Puedo repetirlo siempre igual?</div>
+      <div class="tecnicas">Pipeline que encadena todos los pasos</div>
+      <span class="leccion">Lección 4</span>
     </div>
   </div>
+  <p class="nota">Es un orden orientativo: según los datos y el modelo, algunos pasos cambian de lugar o no hacen falta.</p>
 </div>
+
+### Si ves… haz…
+
+<div class="diagrama">
+  <table class="decisiones">
+    <tbody>
+      <tr><td>Nulos en pocas columnas</td><td>Rellenar con media o mediana; si la columna apenas aporta, eliminarla</td></tr>
+      <tr><td>Filas repetidas</td><td>Eliminarlas con <code>drop_duplicates()</code></td></tr>
+      <tr><td>Valores imposibles (edad −3)</td><td>Corregir, tratar como nulo o eliminar el registro</td></tr>
+      <tr><td>Distribución con cola larga</td><td>Logaritmo, raíz cuadrada o Box-Cox</td></tr>
+      <tr><td>Puntos fuera de los bigotes</td><td>Comprobar si son errores; si son reales, escalado robusto o mediana</td></tr>
+      <tr><td>Variables con escalas muy distintas</td><td>Normalizar o estandarizar</td></tr>
+      <tr><td>Categorías sin orden</td><td>One-Hot; si tienen orden, codificación ordinal</td></tr>
+      <tr><td>Dos variables muy correlacionadas</td><td>Probar a quedarse con una o combinarlas, y comparar métricas</td></tr>
+      <tr><td>Una clase domina a las demás</td><td>Sobremuestreo (SMOTE), pesos o métricas como el f1-score</td></tr>
+      <tr><td>Muchas variables</td><td>Filtrado y PCA, después de escalar</td></tr>
+    </tbody>
+  </table>
+</div>
+
+### Tres reglas de oro
+
+<div class="reglas">
+  <div class="regla"><strong>Mira antes de tocar</strong>Explora y visualiza antes de limpiar o transformar nada.</div>
+  <div class="regla"><strong>Ajusta solo con entrenamiento</strong>Los datos de prueba no se usan para aprender ninguna transformación.</div>
+  <div class="regla"><strong>No es una receta</strong>Cada paso es una herramienta: aplícala si hace falta y compara resultados.</div>
+</div>
+
+### Ponlo en práctica
+
+El notebook del ejemplo completo recorre todos estos pasos sobre un mismo dataset de clientes.
 
 <div class="recursos">
   <a class="btn btn-primary" href="https://youtu.be/tjLTylLNwxM">▶ Vídeo explicativo</a>

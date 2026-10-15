@@ -437,3 +437,62 @@ $menu-colores: (
   .site-nav .nav-list .nav-list-item .nav-list-link { font-size: 0.875rem !important; }
   .site-nav .nav-list .nav-list .nav-list-item .nav-list-link { font-size: 0.82rem !important; }
 }
+
+// ------------------------------------------------------------
+// Síntesis de unidad: ruta de pasos con pregunta y técnicas
+// ------------------------------------------------------------
+.ruta {
+  display: grid;
+  gap: 0.5rem;
+  .etapa {
+    display: grid;
+    grid-template-columns: 9.5rem 1fr 1.3fr auto;
+    align-items: center;
+    gap: 0.75rem;
+    background: #fff;
+    border: 1px solid $borde;
+    border-left: 5px solid $acento;
+    border-radius: 6px;
+    padding: 0.6rem 0.9rem;
+    font-size: 0.86rem;
+    line-height: 1.4;
+    @media (max-width: 700px) { grid-template-columns: 1fr; gap: 0.25rem; }
+  }
+  .nombre { font-weight: 700; color: $acento; font-size: 0.95rem; display: flex; align-items: center; gap: 0.5rem; }
+  .nombre .num {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 1.5rem; height: 1.5rem; border-radius: 50%;
+    background: $acento; color: #fff; font-size: 0.75rem; flex: 0 0 auto;
+  }
+  .pregunta { font-style: italic; color: #3d4650; }
+  .tecnicas code { font-size: 0.75rem; }
+  .leccion {
+    font-size: 0.72rem; font-weight: 600; color: $acento;
+    background: $acento-suave; border-radius: 999px; padding: 0.15rem 0.55rem; white-space: nowrap;
+  }
+}
+
+// Tabla de decisiones «Si ves… → haz…»
+.decisiones {
+  width: 100%;
+  font-size: 0.88rem;
+  td:first-child { font-weight: 600; width: 42%; }
+  td:first-child::after { content: " →"; color: $acento; }
+}
+
+// Reglas de oro
+.reglas {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.75rem;
+  @media (max-width: 700px) { grid-template-columns: 1fr; }
+  .regla {
+    background: $acento;
+    color: #fff;
+    border-radius: 8px;
+    padding: 0.9rem 1rem;
+    font-size: 0.88rem;
+    line-height: 1.4;
+    strong { display: block; font-size: 1rem; margin-bottom: 0.25rem; }
+  }
+}
