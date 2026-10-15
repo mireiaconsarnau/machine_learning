@@ -1,5 +1,5 @@
 ---
-title: "Unidad 2 · Preprocesamiento"
+title: "Unidad 2 · Preprocesado"
 nav_order: 3
 ---
 

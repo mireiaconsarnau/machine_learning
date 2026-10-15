@@ -362,8 +362,24 @@ $menu-colores: (
 .site-title {
   display: flex !important;
   align-items: center;
-  gap: 0.65rem;
-  .icono-curso { flex: 0 0 auto; width: 2.25rem; height: 2.25rem; }
+  gap: 0.6rem;
+  font-size: 1rem !important;
+  .icono-curso { flex: 0 0 auto; width: 2rem; height: 2rem; }
+  .titulo-curso {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.15;
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: #1f2933;
+    small {
+      font-size: 0.68rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #5c6670;
+    }
+  }
 }
 
 // ------------------------------------------------------------
@@ -414,4 +430,10 @@ $menu-colores: (
     font-size: 0.78rem;
   }
   .titulo { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+}
+
+// Letra del menú algo más pequeña para que cada unidad quepa en una línea
+@media (min-width: 50rem) {
+  .site-nav .nav-list .nav-list-item .nav-list-link { font-size: 0.875rem !important; }
+  .site-nav .nav-list .nav-list .nav-list-item .nav-list-link { font-size: 0.82rem !important; }
 }
