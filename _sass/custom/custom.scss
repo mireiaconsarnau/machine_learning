@@ -20,8 +20,9 @@
 // ------------------------------------------------------------
 // Resúmenes visuales (fichas por lección)
 // ------------------------------------------------------------
-$acento: #0f6e7a;
-$acento-suave: #e6f2f3;
+// Color propio de los resúmenes: verde bosque
+$acento: #2e7d4f;
+$acento-suave: #e8f3ec;
 $aviso: #b45309;
 $aviso-suave: #fdf3e7;
 $borde: #dfe3e8;
@@ -120,7 +121,6 @@ $borde: #dfe3e8;
     h4 { margin: 0 0 0.5rem; font-size: 1.05rem !important; text-transform: none !important; letter-spacing: 0 !important; font-weight: 600; }
     ul { padding-left: 0; margin: 0; }
     li { list-style: none; margin: 0.35rem 0; &::before { content: none !important; } }
-    &.hoy { border-top-color: #2e7d32; }
     &.teoria { border-top-color: #9aa5b1; }
   }
   .etiqueta { display: inline-block; font-size: 0.75rem; font-weight: 600; padding: 0.1rem 0.5rem; border-radius: 999px; background: #e8f5e9; color: #2e7d32; margin-bottom: 0.5rem; }
@@ -236,10 +236,10 @@ $menu-colores: (
   4: #0f6e7a,
   5: #0f6e7a,
   6: #0f6e7a,
-  7: #c2410c,   // Resúmenes visuales · terracota
+  7: #2e7d4f,   // Resúmenes visuales · verde bosque
   8: #3b5b9a,   // Resultados de Aprendizaje · azul pizarra
   9: #a16207,   // FAQs · ocre
-  10: #9f1239,  // Fe de erratas · granate
+  10: #c62828,  // Fe de erratas · rojo
   11: #6b7280   // Licencia · gris
 );
 
@@ -266,4 +266,13 @@ $menu-colores: (
     padding-top: 0.6rem;
     border-top: 1px solid $borde;
   }
+}
+
+// Las páginas de resúmenes usan su verde en enlaces y botones
+.pagina-resumen {
+  .main-content a:not(.btn) { color: $acento; }
+  .main-content .btn-primary { background-color: $acento; background-image: none; border-color: $acento; }
+  .main-content .btn-outline { color: $acento; box-shadow: inset 0 0 0 2px $acento; }
+  .main-content .btn:not(.btn-primary):not(.btn-outline) { color: $acento; }
+  .breadcrumb-nav a { color: $acento; }
 }

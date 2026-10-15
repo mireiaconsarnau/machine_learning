@@ -1,4 +1,5 @@
 <script>
+  if (/\/resumenes\//.test(location.pathname)) document.documentElement.classList.add('pagina-resumen');
   /* Añade las lecciones de cada unidad como submenú en el menú lateral.
      Se leen del índice del buscador: los encabezados "##" de cada unidad. */
   document.addEventListener('DOMContentLoaded', function () {
