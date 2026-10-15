@@ -13,4 +13,5 @@ Las fichas no sustituyen al material teórico: son un mapa para orientarte antes
 
 <div class="ideas">
   <div class="idea"><strong><a href="unidad1.html">Unidad 1</a></strong><br>Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático</div>
+  <div class="idea"><strong><a href="unidad2.html">Unidad 2</a></strong><br>Preprocesamiento de datos: preparando la base del aprendizaje automático</div>
 </div>

@@ -9,6 +9,7 @@ nav_order: 3
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/l1.pdf)  
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/gG059WZI8Ow)  
+- [Resumen visual (INFOGRAFÍA)](../resumenes/unidad2.md#leccion-1)  
 
 - Ejemplo Numpy  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad2/cuadernos/U2L11.ipynb)
@@ -35,6 +36,7 @@ nav_order: 3
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/l2.pdf)    
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/cywZLikJCcY)  
+- [Resumen visual (INFOGRAFÍA)](../resumenes/unidad2.md#leccion-2)  
 
 - Ejemplo limpieza de datos  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad2/cuadernos/U2L21.ipynb)
@@ -45,6 +47,7 @@ nav_order: 3
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/l3.pdf)   
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/DY68-iWHpus)  
+- [Resumen visual (INFOGRAFÍA)](../resumenes/unidad2.md#leccion-3)  
 
 - Ejemplo visualización exploratoria  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad2/cuadernos/U2L22.ipynb)  
@@ -55,16 +58,18 @@ nav_order: 3
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/l4.pdf)   
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/y8ARD16JLLc)  
+- [Resumen visual (INFOGRAFÍA)](../resumenes/unidad2.md#leccion-4)  
 
 - Ejemplo transformación de los datos  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad2/cuadernos/U2L23.ipynb)   
-  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/69-S_Nwwues))  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/69-S_Nwwues)  
 
 
 ## Lección 5. Selección y reducción de características: filtrado, PCA y técnicas avanzadas
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/l5.pdf)   
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/O_cY8SkGdUI)  
+- [Resumen visual (INFOGRAFÍA)](../resumenes/unidad2.md#leccion-5)  
 
 - Ejemplo PCA  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad2/cuadernos/U2L24.ipynb)     
@@ -75,4 +80,5 @@ nav_order: 3
 
 - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad2/cuadernos/U2L25.ipynb)  
 - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad2/csv/datasetU2L2.csv)     
-- [Vídeo explicativo (YOUTUBE)](https://youtu.be/tjLTylLNwxM)  
+- [Vídeo explicativo (YOUTUBE)](https://youtu.be/tjLTylLNwxM)
+- [Resumen visual (INFOGRAFÍA)](../resumenes/unidad2.md#ejemplo-completo)

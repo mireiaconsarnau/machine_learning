@@ -133,7 +133,8 @@ $borde: #dfe3e8;
   grid-template-columns: repeat(3, 1fr);
   gap: 0.5rem;
   &.cuatro { grid-template-columns: repeat(4, 1fr); }
-  @media (max-width: 700px) { &, &.cuatro { grid-template-columns: repeat(2, 1fr); } }
+  &.cinco { grid-template-columns: repeat(5, 1fr); }
+  @media (max-width: 700px) { &, &.cuatro, &.cinco { grid-template-columns: repeat(2, 1fr); } }
   .flecha { display: none; }
   .paso {
     background: #fff;
@@ -169,9 +170,89 @@ $borde: #dfe3e8;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 0.75rem;
+  &.cuatro { grid-template-columns: repeat(4, 1fr); @media (max-width: 800px) { grid-template-columns: repeat(2, 1fr); } }
   .rama { background: #fff; border: 1px solid $borde; border-radius: 6px; overflow: hidden; }
   .rama-cab { background: $acento; color: #fff; padding: 0.5rem 0.75rem; font-weight: 600; font-size: 0.95rem; small { display: block; font-weight: 400; opacity: 0.9; } }
   .hoja { padding: 0.5rem 0.75rem; border-top: 1px solid $borde; font-size: 0.85rem; line-height: 1.4; &:first-of-type { border-top: 0; } strong { display: block; } }
+}
+
+// Mini gráficos (formas de distribución, etc.)
+.mini-graficos {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  @media (max-width: 800px) { grid-template-columns: repeat(2, 1fr); }
+  gap: 0.75rem;
+  .mini {
+    background: #fff;
+    border: 1px solid $borde;
+    border-radius: 6px;
+    padding: 0.6rem 0.75rem 0.75rem;
+    font-size: 0.85rem;
+    line-height: 1.35;
+    svg { display: block; width: 100%; height: auto; color: $acento; margin-bottom: 0.4rem; }
+    strong { display: block; color: $acento; font-size: 0.92rem; }
+    .accion { display: block; margin-top: 0.3rem; color: #5c6670; font-size: 0.8rem; }
+  }
+}
+
+// Diagrama SVG grande (boxplot)
+.svg-ancho {
+  display: block;
+  width: 100%;
+  max-width: 560px;
+  height: auto;
+  margin: 0 auto;
+  color: $acento;
+  text { font-size: 11px; fill: #3d4650; font-family: inherit; }
+}
+
+// Escala de correlación de -1 a 1
+.escala {
+  .barra {
+    height: 14px;
+    border-radius: 999px;
+    background: linear-gradient(90deg, #c62828 0%, #e8b4b4 30%, #e5e7eb 50%, #a8d3d8 70%, $acento 100%);
+  }
+  .marcas { display: flex; justify-content: space-between; font-weight: 600; font-size: 0.85rem; margin: 0.3rem 0 0.75rem; }
+  .ejemplos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+    font-size: 0.83rem;
+    line-height: 1.35;
+    @media (max-width: 600px) { grid-template-columns: 1fr; }
+    > div { background: #fff; border: 1px solid $borde; border-radius: 6px; padding: 0.5rem 0.7rem; }
+    strong { display: block; }
+  }
+}
+
+// Barras horizontales (varianza explicada)
+.barras {
+  .fila { display: grid; grid-template-columns: 3.2rem 1fr 3rem; align-items: center; gap: 0.5rem; margin: 0.35rem 0; font-size: 0.85rem; }
+  .pista { background: #e5e7eb; border-radius: 4px; height: 0.9rem; overflow: hidden; }
+  .relleno { background: $acento; height: 100%; border-radius: 4px; }
+  .fila.tenue .relleno { background: #9aa5b1; }
+}
+
+// Tabla pequeña de ejemplo (codificación)
+.tabla-mini {
+  font-size: 0.82rem;
+  margin: 0.25rem 0 0;
+  th, td { padding: 0.25rem 0.5rem !important; text-align: center; }
+  td.si { background: $acento-suave; font-weight: 600; color: $acento; }
+}
+
+// Fusión de variables en un componente (PCA)
+.fusion {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.88rem;
+  .origen { display: grid; gap: 0.4rem; }
+  .origen span, .destino { background: #fff; border: 1px solid $borde; border-radius: 6px; padding: 0.45rem 0.7rem; text-align: center; }
+  .destino { border: 2px solid $acento; color: $acento; font-weight: 600; }
+  .flecha-grande { font-size: 1.5rem; color: $acento; }
 }
 
 // Glosario
