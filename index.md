@@ -17,16 +17,29 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0](LICENSE.md).
 
 ## Contenido del curso
 
-### [Unidad 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático](unidad1/unidad1.md)  
-### [Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje automático](unidad2/unidad2.md)  
-### [Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo](unidad3/unidad3.md)  
-### [Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis de patrones](unidad4/unidad4.md)  
-### [Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automático](unidad5/unidad5.md)  
+### [Unidad 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático](unidad1/unidad1.md)
+{: .indice .indice-unidad }
 
-### [Resúmenes visuales de cada lección](resumenes/resumenes.md)  
+### [Unidad 2. Preprocesamiento de datos: preparando la base del aprendizaje automático](unidad2/unidad2.md)
+{: .indice .indice-unidad }
 
-### [Relación entre Unidades y Resultados de Aprendizaje (RAs)](ras.md)  
+### [Unidad 3. Aprendizaje supervisado: modelos para análisis predictivo](unidad3/unidad3.md)
+{: .indice .indice-unidad }
 
-### [FAQs](faqs/faqs.md)  
+### [Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis de patrones](unidad4/unidad4.md)
+{: .indice .indice-unidad }
 
-### [Fe de Erratas](fed/fed.md)  
+### [Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automático](unidad5/unidad5.md)
+{: .indice .indice-unidad }
+
+### [Resúmenes visuales de cada lección](resumenes/resumenes.md)
+{: .indice .indice-resumenes }
+
+### [FAQs](faqs/faqs.md)
+{: .indice .indice-faqs }
+
+### [Relación entre Unidades y Resultados de Aprendizaje (RAs)](ras.md)
+{: .indice .indice-ras }
+
+### [Fe de Erratas](fed/fed.md)
+{: .indice .indice-fed }

@@ -10,11 +10,13 @@ nav_order: 4
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/l1.pdf)    
 - [Fases Aprendizaje Supervisado (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad3/cuadernos/U3L10.ipynb)
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/yeSjA9QJFLU)
+- [Resumen visual (INFOGRAFÍA)](../resumenes/unidad3.md#leccion-1)  
 
 ## Lección 2. Modelos supervisados para clasificación: algoritmos, métricas y usos
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/l2.pdf)
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/NeHhxBUhndI)
+- [Resumen visual (INFOGRAFÍA)](../resumenes/unidad3.md#leccion-2)  
       
 - Ejemplo de un modelo para clasificación (Inicio - Parte 1)
   - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/3CrsngvAFaU)
@@ -64,6 +66,7 @@ nav_order: 4
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/l3.pdf)
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/lTEX-qJ9fE0)      
+- [Resumen visual (INFOGRAFÍA)](../resumenes/unidad3.md#leccion-3)  
 
 - Ejemplo de un modelo para regresión (Inicio - Parte 1)
   - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/3hBL-ynQmJE) 
@@ -97,4 +100,8 @@ nav_order: 4
 - Otro ejemplo completo de regresión  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad3/cuadernos/U3L37.ipynb)  
   - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad3/csv/treatments.csv)
-  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/5sBVe-pOh3A)  
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/5sBVe-pOh3A)
+
+## Síntesis de la unidad
+
+- [Síntesis de la unidad (INFOGRAFÍA)](../resumenes/unidad3.md#sintesis)

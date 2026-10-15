@@ -9,6 +9,7 @@ nav_order: 6
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/l1.pdf)     
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/LvNclpD5WnU)  
+- [Resumen visual (INFOGRAFÍA)](../resumenes/unidad5.md#leccion-1)  
 
 - Ejemplo MLP para clasificación  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad5/cuadernos/U5L11.ipynb)   
@@ -24,6 +25,7 @@ nav_order: 6
 ## Lección 2. Otras arquitecturas de redes neuronales
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/l2.pdf)     
+- [Resumen visual (INFOGRAFÍA)](../resumenes/unidad5.md#leccion-2)  
 
 - Ejemplo autoencoder convolucional
   - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/RVDHBUZWnnE)
@@ -39,6 +41,7 @@ nav_order: 6
 ## Lección 3. Evolución del aprendizaje profundo y otras técnicas modernas de ML
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad5/l3.pdf)     
+- [Resumen visual (INFOGRAFÍA)](../resumenes/unidad5.md#leccion-3)  
 
 - Ejemplo CNN para clasificación de imágenes con Transfer Learning
   - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/wkovhrD2_OI) 
@@ -49,4 +52,8 @@ nav_order: 6
 - Ejemplo de aplicación de un algoritmo genético
   - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/qjxRbiU5vWI) 
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad5/cuadernos/U5L32.ipynb)    
-  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/-2cLgB-4m48) 
+  - [Vídeo explicativo (YOUTUBE)](https://youtu.be/-2cLgB-4m48)
+
+## Síntesis de la unidad
+
+- [Síntesis de la unidad (INFOGRAFÍA)](../resumenes/unidad5.md#sintesis)

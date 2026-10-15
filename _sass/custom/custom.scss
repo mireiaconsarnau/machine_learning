@@ -192,6 +192,8 @@ $borde: #dfe3e8;
     svg { display: block; width: 100%; height: auto; color: $acento; margin-bottom: 0.4rem; }
     strong { display: block; color: $acento; font-size: 0.92rem; }
     .accion { display: block; margin-top: 0.3rem; color: #5c6670; font-size: 0.8rem; }
+    min-width: 0;
+    code { word-break: break-all; }
   }
 }
 
@@ -495,4 +497,20 @@ $menu-colores: (
     line-height: 1.4;
     strong { display: block; font-size: 1rem; margin-bottom: 0.25rem; }
   }
+}
+
+// Portada: enlaces del índice con los mismos colores que el menú
+.main-content h3.indice {
+  margin: 0.35rem 0 !important;
+  padding: 0.35rem 0 0.35rem 0.9rem;
+  border-left: 4px solid currentColor;
+  font-size: 1.05rem !important;
+  line-height: 1.35;
+  a { color: inherit; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  &.indice-unidad { color: #0f6e7a; }
+  &.indice-resumenes { color: #2c4766; margin-top: 1.25rem !important; }
+  &.indice-faqs { color: #a16207; }
+  &.indice-ras { color: #2e7d4f; }
+  &.indice-fed { color: #c62828; }
 }

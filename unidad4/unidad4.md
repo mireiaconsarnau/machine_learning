@@ -9,12 +9,14 @@ nav_order: 5
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad4/l1.pdf)   
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/_FS5azNi1_Y)  
+- [Resumen visual (INFOGRAFÍA)](../resumenes/unidad4.md#leccion-1)  
 
 
 ## Lección 2. Agrupación con k-medias y métodos jerárquicos: funcionamiento y aplicación
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad4/l2.pdf)   
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/5BDQW-Vc5-4)  
+- [Resumen visual (INFOGRAFÍA)](../resumenes/unidad4.md#leccion-2)  
 
 - Ejemplo K-means  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U4L21.ipynb)  
@@ -31,6 +33,7 @@ nav_order: 5
 
 - [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad4/l3.pdf)   
 - [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/AyHOSU6ilyM)  
+- [Resumen visual (INFOGRAFÍA)](../resumenes/unidad4.md#leccion-3)  
 
 - Comparativa K-means, AGNES y DBSCAN  
   - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U4L31.ipynb)   
@@ -46,4 +49,5 @@ nav_order: 5
 
 - [Notebook (COLAB)](https://colab.research.google.com/github/mireiaconsarnau/machine_learning/blob/main/unidad4/cuadernos/U4L33.ipynb)    
 - [Archivo de datos (CSV)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad4/csv/streaming_usage_dataset.csv)    
-- [Vídeo explicativo (YOUTUBE)](https://youtu.be/w_rB4BpJ5k4)  
+- [Vídeo explicativo (YOUTUBE)](https://youtu.be/w_rB4BpJ5k4)
+- [Síntesis de la unidad (INFOGRAFÍA)](../resumenes/unidad4.md#sintesis)

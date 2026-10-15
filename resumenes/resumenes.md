@@ -14,4 +14,7 @@ Las fichas no sustituyen al material teórico: son un mapa para orientarte antes
 <div class="ideas">
   <div class="idea"><strong><a href="unidad1.html">Unidad 1</a></strong><br>Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático</div>
   <div class="idea"><strong><a href="unidad2.html">Unidad 2</a></strong><br>Preprocesamiento de datos: preparando la base del aprendizaje automático</div>
+  <div class="idea"><strong><a href="unidad3.html">Unidad 3</a></strong><br>Aprendizaje supervisado: modelos para análisis predictivo</div>
+  <div class="idea"><strong><a href="unidad4.html">Unidad 4</a></strong><br>Aprendizaje no supervisado: modelos de agrupación y análisis de patrones</div>
+  <div class="idea"><strong><a href="unidad5.html">Unidad 5</a></strong><br>Redes neuronales y modelos avanzados de aprendizaje automático</div>
 </div>
