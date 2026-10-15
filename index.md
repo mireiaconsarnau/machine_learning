@@ -23,6 +23,8 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0](LICENSE.md).
 ### [Unidad 4. Aprendizaje no supervisado: modelos de agrupación y análisis de patrones](unidad4/unidad4.md)  
 ### [Unidad 5. Redes neuronales y modelos avanzados de aprendizaje automático](unidad5/unidad5.md)  
 
+### [Resúmenes visuales de cada lección](resumenes/resumenes.md)  
+
 ### [Relación entre Unidades y Resultados de Aprendizaje (RAs)](ras.md)  
 
 ### [FAQs](faqs/faqs.md)  

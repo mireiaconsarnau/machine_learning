@@ -16,3 +16,211 @@
   color: inherit;
   text-decoration: underline;
 }
+
+// ------------------------------------------------------------
+// Resúmenes visuales (fichas por lección)
+// ------------------------------------------------------------
+$acento: #0f6e7a;
+$acento-suave: #e6f2f3;
+$aviso: #b45309;
+$aviso-suave: #fdf3e7;
+$borde: #dfe3e8;
+
+.ficha-lead {
+  font-size: 1.15rem;
+  line-height: 1.5;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid $acento;
+  background: $acento-suave;
+  border-radius: 0 6px 6px 0;
+  margin: 1rem 0 1.5rem;
+}
+
+.ideas {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0 1.5rem;
+  counter-reset: idea;
+}
+.idea {
+  position: relative;
+  border: 1px solid $borde;
+  border-radius: 8px;
+  padding: 2.4rem 1rem 1rem;
+  background: #fff;
+  line-height: 1.45;
+  font-size: 0.95rem;
+  &::before {
+    counter-increment: idea;
+    content: counter(idea);
+    position: absolute;
+    top: 0.75rem;
+    left: 1rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 50%;
+    background: $acento;
+    color: #fff;
+    font-weight: 600;
+    font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  strong { color: $acento; }
+}
+
+.diagrama {
+  border: 1px solid $borde;
+  border-radius: 8px;
+  padding: 1.25rem;
+  margin: 1rem 0 1.5rem;
+  background: #fafbfc;
+  .diagrama-titulo {
+    font-weight: 600;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #5c6670;
+    margin-bottom: 1rem;
+  }
+  .nota {
+    font-size: 0.85rem;
+    color: #5c6670;
+    margin-top: 0.75rem;
+    margin-bottom: 0;
+  }
+}
+
+// Matriz 2x2 con cabeceras
+.matriz {
+  display: grid;
+  grid-template-columns: auto 1fr 1fr;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  .cab { font-weight: 600; color: $acento; display: flex; align-items: center; justify-content: center; text-align: center; padding: 0.25rem; }
+  .celda { background: #fff; border: 1px solid $borde; border-radius: 6px; padding: 0.75rem; strong { display: block; margin-bottom: 0.2rem; } }
+}
+
+// Comparativa en columnas
+.comparativa {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 0.75rem;
+  .col {
+    background: #fff;
+    border: 1px solid $borde;
+    border-top: 4px solid $acento;
+    border-radius: 6px;
+    padding: 0.75rem 1rem;
+    font-size: 0.9rem;
+    line-height: 1.4;
+    h4 { margin: 0 0 0.5rem; font-size: 1.05rem !important; text-transform: none !important; letter-spacing: 0 !important; font-weight: 600; }
+    ul { padding-left: 0; margin: 0; }
+    li { list-style: none; margin: 0.35rem 0; &::before { content: none !important; } }
+    &.hoy { border-top-color: #2e7d32; }
+    &.teoria { border-top-color: #9aa5b1; }
+  }
+  .etiqueta { display: inline-block; font-size: 0.75rem; font-weight: 600; padding: 0.1rem 0.5rem; border-radius: 999px; background: #e8f5e9; color: #2e7d32; margin-bottom: 0.5rem; }
+  .teoria .etiqueta { background: #eef1f4; color: #5c6670; }
+}
+
+// Flujo de pasos numerados
+.flujo {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.5rem;
+  &.cuatro { grid-template-columns: repeat(4, 1fr); }
+  @media (max-width: 700px) { &, &.cuatro { grid-template-columns: repeat(2, 1fr); } }
+  .flecha { display: none; }
+  .paso {
+    background: #fff;
+    border: 1px solid $borde;
+    border-radius: 6px;
+    padding: 0.6rem 0.75rem;
+    font-size: 0.85rem;
+    line-height: 1.35;
+    strong { display: block; color: $acento; font-size: 0.92rem; margin: 0.3rem 0 0.1rem; }
+    .num {
+      display: inline-flex; align-items: center; justify-content: center;
+      width: 1.35rem; height: 1.35rem; border-radius: 50%;
+      background: $acento; color: #fff; font-size: 0.72rem; font-weight: 600;
+    }
+    code { font-size: 0.75rem; }
+  }
+}
+
+// Cajas anidadas (IA ⊃ ML ⊃ DL)
+.nido {
+  border: 2px solid $acento;
+  border-radius: 12px;
+  padding: 0.75rem 1rem 1rem;
+  background: #fff;
+  .nido-nombre { font-weight: 600; color: $acento; font-size: 0.95rem; }
+  .nido-desc { font-size: 0.85rem; color: #5c6670; margin-bottom: 0.6rem; }
+  .nido { border-style: dashed; background: $acento-suave; margin-top: 0.25rem; }
+  .nido .nido { border-style: solid; background: #fff; }
+}
+
+// Árbol de tipos
+.arbol {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.75rem;
+  .rama { background: #fff; border: 1px solid $borde; border-radius: 6px; overflow: hidden; }
+  .rama-cab { background: $acento; color: #fff; padding: 0.5rem 0.75rem; font-weight: 600; font-size: 0.95rem; small { display: block; font-weight: 400; opacity: 0.9; } }
+  .hoja { padding: 0.5rem 0.75rem; border-top: 1px solid $borde; font-size: 0.85rem; line-height: 1.4; &:first-of-type { border-top: 0; } strong { display: block; } }
+}
+
+// Glosario
+.glosario {
+  display: grid;
+  grid-template-columns: minmax(120px, max-content) 1fr;
+  gap: 0.4rem 1rem;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  margin: 0.5rem 0 1.5rem;
+  dt { font-weight: 600; color: $acento; }
+  dd { margin: 0; }
+  @media (max-width: 600px) { grid-template-columns: 1fr; dd { margin-bottom: 0.5rem; } }
+}
+
+// Errores típicos
+.ojo {
+  background: $aviso-suave;
+  border-left: 4px solid $aviso;
+  border-radius: 0 6px 6px 0;
+  padding: 0.75rem 1.25rem;
+  margin: 0.5rem 0 1.5rem;
+  font-size: 0.93rem;
+  line-height: 1.45;
+  ul { margin: 0; }
+}
+
+// Autoevaluación con respuesta oculta
+.autoeval details {
+  border: 1px solid $borde;
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
+  background: #fff;
+  summary { cursor: pointer; padding: 0.65rem 1rem; font-weight: 500; line-height: 1.4; }
+  &[open] summary { border-bottom: 1px solid $borde; color: $acento; }
+  .respuesta { padding: 0.65rem 1rem; font-size: 0.93rem; line-height: 1.45; }
+}
+
+// Botones de recursos
+.recursos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.75rem 0 2.5rem;
+  .btn { margin: 0; }
+}
+
+.chuleta {
+  width: 100%;
+  font-size: 0.88rem;
+  code { white-space: nowrap; }
+}
