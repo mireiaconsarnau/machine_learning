@@ -31,6 +31,12 @@ aux_links:
     - "https://github.com/mireiaconsarnau/machine_learning"
 aux_links_new_tab: true
 
+# Enlaces a otras webs en el menú: van después de la última página (Licencia)
+nav_external_links:
+  - title: "Repaso Lab"
+    url: "https://mireiaconsarnau.github.io/repaso-lab/"
+    opens_in_new_tab: true
+
 back_to_top: true
 back_to_top_text: "Volver arriba"
 
