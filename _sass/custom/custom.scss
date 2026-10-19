@@ -351,6 +351,23 @@ $menu-colores: (
   }
 }
 
+// Repaso Lab (enlace a otra web, nav_external_links): va en una lista aparte, después de Licencia.
+// Grupo propio, con la misma línea de separación que las unidades y un color que no usa ningún apartado.
+$menu-repaso: #6a3d9a;   // morado
+.site-nav > .nav-list > .nav-list-item.external {
+  margin-top: 0.6rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid $borde;
+  > .nav-list-link.external {
+    color: $menu-repaso;
+    box-shadow: inset 3px 0 0 $menu-repaso;
+    &:hover {
+      background-color: rgba($menu-repaso, 0.08);
+      background-image: none;
+    }
+  }
+}
+
 // Las páginas de resúmenes usan su azul marino en enlaces y botones
 .pagina-resumen {
   .main-content a:not(.btn) { color: $acento; }
