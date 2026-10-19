@@ -530,4 +530,5 @@ $menu-repaso: #6a3d9a;   // morado
   &.indice-faqs { color: #a16207; }
   &.indice-ras { color: #2e7d4f; }
   &.indice-fed { color: #c62828; }
+  &.indice-repaso { color: $menu-repaso; margin-top: 1.25rem !important; }   // Repaso Lab: aparte, como en el menú
 }

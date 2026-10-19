@@ -43,3 +43,6 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0](LICENSE.md).
 
 ### [Fe de Erratas](fed/fed.md)
 {: .indice .indice-fed }
+
+### [Repaso Lab: pon a prueba lo que has aprendido](https://mireiaconsarnau.github.io/repaso-lab/){:target="_blank" rel="noopener"}
+{: .indice .indice-repaso }
